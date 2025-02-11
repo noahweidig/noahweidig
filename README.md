@@ -1,7 +1,7 @@
 ## **Noah Weidig**
 
 ### 🔥 **Landscape Ecologist | Remote Sensing Scientist | Data Scientist**  
-I analyze large wildfires (>200 ha) in the eastern U.S. and their impacts on the wildland-urban interface (WUI). My work integrates **geospatial analytics, remote sensing, and data science**, leveraging **R, Python, and Google Earth Engine** to model landscape dynamics, wildfire behavior, and ecological change at scale.
+I analyze wildfires in the eastern U.S. and their impacts on the wildland-urban interface (WUI). My work integrates **geospatial analytics, remote sensing, and data science**, leveraging **R, Python, and Google Earth Engine** to model landscape dynamics, wildfire behavior, and ecological change at scale.
 
 ---
 
