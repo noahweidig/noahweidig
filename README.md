@@ -7,13 +7,13 @@
 
 <p align="center">
   <a href="https://noahweidig.com"><strong>Portfolio</strong></a> ·
-  <a href="https://substack.com/@noahweidig"><strong>Field Notes Newsletter</strong></a> ·
+  <a href="https://substack.com/@noahweidig"><strong>Substack</strong></a> ·
   <a href="https://orcid.org/0000-0003-1205-3209"><strong>ORCID</strong></a> ·
   <a href="https://rpubs.com/noahweidig"><strong>RPubs</strong></a> ·
   <a href="https://www.linkedin.com/in/noahweidig/"><strong>LinkedIn</strong></a>
 </p>
 
-> Translating remotely sensed imagery, field data, and open geospatial datasets into actionable insights for fire-adapted landscapes and resilient communities.
+> Translating remotely sensed imagery, field data, and open geospatial datasets into actionable insights for resilient landscapes and communities.
 
 ---
 
@@ -26,9 +26,9 @@
 
 ### 🔍 Current Themes
 
-- Mapping prescribed fire outcomes to quantify ecosystem benefits and community co-benefits.
+- Understanding the role of Conservation Reserve Program lands in wildfire risk in the Great Plains.
 - Building geospatial data products that support decision-making for conservation partners and agencies.
-- Teaching workshops on spatial data science, reproducible research, and effective wildfire analytics.
+- Creating user-friendly tools that allow the public to engage with science.
 
 ---
 
@@ -38,17 +38,6 @@
 | --- | --- | --- |
 | ![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![tidyverse](https://img.shields.io/badge/-tidyverse-1A162D?style=for-the-badge&logo=RStudio&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) | ![Google Earth Engine](https://img.shields.io/badge/-Google%20Earth%20Engine-34A853?style=for-the-badge&logo=google-earth&logoColor=white) ![QGIS](https://img.shields.io/badge/-QGIS-3EBC4B?style=for-the-badge&logo=qgis&logoColor=white) ![ArcGIS Pro](https://img.shields.io/badge/-ArcGIS%20Pro-007AC2?style=for-the-badge&logo=esri&logoColor=white) ![PostGIS](https://img.shields.io/badge/-PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![GDAL](https://img.shields.io/badge/-GDAL-5C8727?style=for-the-badge&logo=osgeo&logoColor=white) | ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Quarto](https://img.shields.io/badge/-Quarto-4584F0?style=for-the-badge&logo=quarto&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) |
 
----
-
-## 🔥 Signature Projects & Collaborations
-
-| Project | Highlights | Stack |
-| --- | --- | --- |
-| [Wildfire & WUI Interaction Modeling](https://github.com/noahweidig/wui_wildfires) | Statistical modeling of wildfire behavior, exposure, and mitigation in the eastern U.S. | R · Python · Google Earth Engine |
-| Fire-Adapted Communities Dashboards *(in development)* | Integrating socio-ecological indicators, suppression infrastructure, and fuel treatments to guide planning. | R Shiny · Leaflet · PostGIS |
-| Prescribed Fire Monitoring Toolkit *(collaborative)* | Automating burn scar detection, severity mapping, and fuel recovery assessments. | Python · Earth Engine · GDAL |
-
-> Explore more case studies, maps, and publications at **[noahweidig.com](https://noahweidig.com)**.
 
 ---
 
@@ -57,6 +46,8 @@
 - 🗺️ **Interactive mapping** with Leaflet, Mapbox, and deck.gl for scenario planning and storytelling.
 - 📊 **Reproducible analytics** packages and templates that combine Quarto, Git, and cloud storage.
 - 🎙️ **Workshops & talks** on wildfire analytics, spatial R/Python workflows, and ethical data practices.
+
+> Explore more case studies, maps, and publications at **[noahweidig.com](https://noahweidig.com)**.
 
 ---
 
