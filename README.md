@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/noahweidig/"><strong>LinkedIn</strong></a>
 </p>
 
-> Translating remotely sensed imagery, field data, and open geospatial datasets into actionable insights for resilient landscapes and communities.
+> Translating open geospatial data into actionable insights for resilient landscapes and communities.
 
 ---
 
