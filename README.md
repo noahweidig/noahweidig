@@ -43,7 +43,7 @@
 
 ## 🛰️ Spatial Products & Communication
 
-- 🗺️ **Interactive mapping** with Leaflet, Mapbox, and deck.gl for scenario planning and storytelling.
+- 🗺️ **Interactive mapping** with Leaflet, Shiny Apps, Mapbox for scenario planning and storytelling.
 - 📊 **Reproducible analytics** packages and templates that combine Quarto, Git, and cloud storage.
 - 🎙️ **Workshops & talks** on wildfire analytics, spatial R/Python workflows, and ethical data practices.
 
