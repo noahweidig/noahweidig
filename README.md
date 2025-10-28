@@ -13,8 +13,6 @@
   <a href="https://www.linkedin.com/in/noahweidig/"><strong>LinkedIn</strong></a>
 </p>
 
-> Translating open geospatial data into actionable insights for resilient landscapes and communities.
-
 ---
 
 ## 🛰️ Geospatial & Data Science Focus
