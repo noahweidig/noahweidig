@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Noah Weidig</h1>
-<h3 align="center">Geospatial Data Scientist · Landscape Ecologist · Data Scientist</h3>
+<h3 align="center">GIS Analyst · Data Scientist</h3>
 
 <p align="center">
   <a href="https://noahweidig.com"><strong>Portfolio</strong></a> ·
