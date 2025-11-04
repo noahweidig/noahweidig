@@ -6,7 +6,7 @@
 <h3 align="center">GIS Analyst · Data Scientist</h3>
 
 <p align="center">
-  <a href="https://noahweidig.com"><strong>Portfolio</strong></a> ·
+  <a href="https://noahweidig.com"><strong>Website</strong></a> ·
   <a href="https://substack.com/@noahweidig"><strong>Substack</strong></a> ·
   <a href="https://orcid.org/0000-0003-1205-3209"><strong>ORCID</strong></a> ·
   <a href="https://rpubs.com/noahweidig"><strong>RPubs</strong></a> ·
