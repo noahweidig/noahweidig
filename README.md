@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="http://raw.githubusercontent.com/noahweidig/noahweidig/refs/heads/main/prescribed_burn.jpeg" alt="Prescribed burn in Northwest Florida" width="100%">
+  <img src="http://raw.githubusercontent.com/noahweidig/noahweidig/refs/heads/main/weidig-github-banner.png" alt="Prescribed burn in Northwest Florida" width="100%">
 </p>
 
 <h1 align="center">Noah Weidig</h1>
