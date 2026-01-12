@@ -32,27 +32,12 @@
 
 ## 🧠 Spatial Analytics Stack
 
-| Data Science & Modeling | GIS & Remote Sensing | Cloud & Collaboration |
-| --- | --- | --- |
-| ![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![tidyverse](https://img.shields.io/badge/-tidyverse-1A162D?style=for-the-badge&logo=RStudio&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Google Earth Engine](https://img.shields.io/badge/-Google%20Earth%20Engine-34A853?style=for-the-badge&logo=google-earth&logoColor=white) ![QGIS](https://img.shields.io/badge/-QGIS-3EBC4B?style=for-the-badge&logo=qgis&logoColor=white) ![ArcGIS Pro](https://img.shields.io/badge/-ArcGIS%20Pro-007AC2?style=for-the-badge&logo=esri&logoColor=white) ![GDAL](https://img.shields.io/badge/-GDAL-5C8727?style=for-the-badge&logo=osgeo&logoColor=white) | ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Quarto](https://img.shields.io/badge/-Quarto-4584F0?style=for-the-badge&logo=quarto&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) |
+### Software
+[![My Skills](https://simpleskill.icons.workers.dev/svg?i=rstudioide,quarto,pycharm,googleearth,googleearthengine,github,leaflet,overleaf&theme=light)](#)
 
-<p align="center">
-  <a href="https://noahweidig.com" target="_blank">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=r,python,github,git"  style="height: 3em; "/>
-  </a>
-</p>
 
-<p align="center">
-  <a href="https://noahweidig.com" target="_blank">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=markdown,vscode,cursor,jupyter"  style="height: 3em; "/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://noahweidig.com" target="_blank">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,latex,gcp"  style="height: 3em; "/>
-  </a>
-</p>
+### Languages
+[![My Skills](https://simpleskill.icons.workers.dev/svg?i=r,python,javascript,markdown,latex,git,gnubash&theme=light)](#)
 
 ---
 
