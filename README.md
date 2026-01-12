@@ -1,4 +1,4 @@
-# Noah Weidig <a href='noahweidig.com'><img src='https://lh3.googleusercontent.com/sitesv/AAzXCkcyUSkNIiSposVF1lkObH46Usjz5y4jXQxTsG_fgnLOlfpEZ7lxgY3dzYwj3d9R8GUQr9qFlOS5qkiNOkV2xPG6hs_bQJ3zNLxKUHWAsIihDxxASK_iw5WU2YIGEsO06p4wD9Q0X0TpWvXqIrEpBFFuSMdqgCLqGDl8SSIU3ubzuAA2Pnv6LpdU=w16383' align="right" height="138" /></a>
+# Noah Weidig <a href='noahweidig.com'><img src='https://github.com/noahweidig/noahweidig/blob/f17ba650d83bd46df2f8d78805649a44c8e29ed0/NW%20Logo.png' align="right" height="138" /></a>
 **`GIS Analyst · Data Scientist`**
 <p align="left">
   <a href="mailto:noah@noahweidig.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=minutemailer&logoColor=white" height="30" alt="Email"></a>
