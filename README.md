@@ -1,11 +1,6 @@
-<p align="center">
-  <img src="http://raw.githubusercontent.com/noahweidig/noahweidig/refs/heads/main/weidig-github-banner.png" alt="Noah Weidig" width="100%">
-</p>
-
-<h1 align="center" >Noah Weidig</h1>
-<h3 align="center">GIS Analyst · Data Scientist</h3>
-
-<p align="center">
+# Noah Weidig <a href='noahweidig.com'><img src='https://lh3.googleusercontent.com/sitesv/AAzXCkcyUSkNIiSposVF1lkObH46Usjz5y4jXQxTsG_fgnLOlfpEZ7lxgY3dzYwj3d9R8GUQr9qFlOS5qkiNOkV2xPG6hs_bQJ3zNLxKUHWAsIihDxxASK_iw5WU2YIGEsO06p4wD9Q0X0TpWvXqIrEpBFFuSMdqgCLqGDl8SSIU3ubzuAA2Pnv6LpdU=w16383' align="right" height="138" /></a>
+**`GIS Analyst · Data Scientist`**
+<p align="left">
   <a href="mailto:noah@noahweidig.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=minutemailer&logoColor=white" height="30" alt="Email"></a>
   <a href="https://noahweidig.com"><img src="https://img.shields.io/badge/-Website-008080?style=for-the-badge&logo=nextdotjs&logoColor=white" height="30" alt="Website"></a>
   <a href="https://substack.com/@noahweidig"><img src="https://img.shields.io/badge/-Substack-%23FF6719?style=for-the-badge&logo=substack&logoColor=white" height="30" alt="Substack"></a>
@@ -14,9 +9,7 @@
   <a href="https://www.linkedin.com/in/noahweidig/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn"></a>
 </p>
 
----
-
-## 🛰️ Summary
+## What I Do
 
 I leverage remote sensing, GIS, and data science to translate complex data into clear insight about how our world changes. I believe understanding patterns through time gives people the power to see beyond the moment and shape a more intentional world.
 
@@ -28,29 +21,28 @@ I leverage remote sensing, GIS, and data science to translate complex data into 
 - Curating the United States Census TIGER Roads spatial datasets in Google Earth Engine.
 - Building geospatial data products that support decision-making for conservation partners and agencies.
 - Creating user-friendly tools that allow the public to engage with science.
----
 
 ## Tools & Platforms
 
-| ![RStudio](https://simpleskill.icons.workers.dev/svg?i=rstudioide) | ![Quarto](https://simpleskill.icons.workers.dev/svg?i=quarto) | ![PyCharm](https://simpleskill.icons.workers.dev/svg?i=pycharm) | ![Google Earth](https://simpleskill.icons.workers.dev/svg?i=googleearth) | ![GEE](https://simpleskill.icons.workers.dev/svg?i=googleearthengine) |
+| ![RStudio](https://simpleskill.icons.workers.dev/svg?i=rstudioide) | ![Quarto](https://simpleskill.icons.workers.dev/svg?i=quarto) | ![PyCharm](https://simpleskill.icons.workers.dev/svg?i=pycharm&theme=light) | ![Google Earth](https://simpleskill.icons.workers.dev/svg?i=googleearth) | ![GEE](https://simpleskill.icons.workers.dev/svg?i=googleearthengine) |
 |---------------------------------|---------------------------------|---------------------------------|---------------------------------|---------------------------------|
 | RStudio | Quarto | PyCharm | Google Earth | Google Earth Engine |
 
-| ![Google Colab](https://simpleskill.icons.workers.dev/svg?i=googlecolab) | ![ArcGIS](https://simpleskill.icons.workers.dev/svg?i=arcgis) | ![ESRI](https://simpleskill.icons.workers.dev/svg?i=esri) | ![Mapbox](https://simpleskill.icons.workers.dev/svg?i=mapbox) | ![MapLibre](https://simpleskill.icons.workers.dev/svg?i=maplibre) |
+| ![Google Colab](https://simpleskill.icons.workers.dev/svg?i=googlecolab) | ![ArcGIS](https://simpleskill.icons.workers.dev/svg?i=arcgis) | ![ESRI](https://simpleskill.icons.workers.dev/svg?i=esri&theme=light) | ![Mapbox](https://simpleskill.icons.workers.dev/svg?i=mapbox&theme=light) | ![MapLibre](https://simpleskill.icons.workers.dev/svg?i=maplibre) |
 |---------------------------------|---------------------------------|---------------------------------|---------------------------------|---------------------------------|
 | Google Colab | ArcGIS | ESRI | Mapbox | MapLibre |
 
-| ![OSM](https://simpleskill.icons.workers.dev/svg?i=openstreetmap) | ![GitHub](https://simpleskill.icons.workers.dev/svg?i=github) | ![Leaflet](https://simpleskill.icons.workers.dev/svg?i=leaflet) | ![Overleaf](https://simpleskill.icons.workers.dev/svg?i=overleaf) | ![GeoPandas](https://simpleskill.icons.workers.dev/svg?i=geopandas) |
+| ![OSM](https://simpleskill.icons.workers.dev/svg?i=openstreetmap) | ![GitHub](https://simpleskill.icons.workers.dev/svg?i=github&theme=light) | ![Leaflet](https://simpleskill.icons.workers.dev/svg?i=leaflet) | ![Overleaf](https://simpleskill.icons.workers.dev/svg?i=overleaf) | ![GeoPandas](https://simpleskill.icons.workers.dev/svg?i=geopandas) |
 |---------------------------------|---------------------------------|---------------------------------|---------------------------------|---------------------------------|
 | OpenStreetMap | GitHub | Leaflet | Overleaf | GeoPandas |
 
-| ![Tidyverse](https://simpleskill.icons.workers.dev/svg?i=tidyverse) | ![NumPy](https://simpleskill.icons.workers.dev/svg?i=numpy) | ![Jupyter](https://simpleskill.icons.workers.dev/svg?i=jupyter) |
+| ![Tidyverse](https://simpleskill.icons.workers.dev/svg?i=tidyverse&theme=light) | ![NumPy](https://simpleskill.icons.workers.dev/svg?i=numpy) | ![Jupyter](https://simpleskill.icons.workers.dev/svg?i=jupyter) |
 |---------------------------------|---------------------------------|---------------------------------|
 | Tidyverse | NumPy | Jupyter |
 
 ## Coding Languages
 
-| ![R](https://simpleskill.icons.workers.dev/svg?i=r) | ![Python](https://simpleskill.icons.workers.dev/svg?i=python) | ![JavaScript](https://simpleskill.icons.workers.dev/svg?i=javascript) | ![Markdown](https://simpleskill.icons.workers.dev/svg?i=markdown) | ![LaTeX](https://simpleskill.icons.workers.dev/svg?i=latex) |
+| ![R](https://simpleskill.icons.workers.dev/svg?i=r) | ![Python](https://simpleskill.icons.workers.dev/svg?i=python) | ![JavaScript](https://simpleskill.icons.workers.dev/svg?i=javascript) | ![Markdown](https://simpleskill.icons.workers.dev/svg?i=markdown&theme=light) | ![LaTeX](https://simpleskill.icons.workers.dev/svg?i=latex) |
 |---------------------------------|---------------------------------|---------------------------------|---------------------------------|---------------------------------|
 | R | Python | JavaScript | Markdown | LaTeX |
 
@@ -58,9 +50,7 @@ I leverage remote sensing, GIS, and data science to translate complex data into 
 |---------------------------------|---------------------------------|---------------------------------|
 | Git | Bash | GDAL |
 
----
 > Explore more case studies, maps, and publications at **[noahweidig.com](https://noahweidig.com)**.
----
 
 ## 🤝 Let's Collaborate
 I'm always excited to collaborate on projects that make landscapes and communities more resilient.
