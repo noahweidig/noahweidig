@@ -29,11 +29,35 @@ I leverage remote sensing, GIS, and data science to translate complex data into 
 - Building geospatial data products that support decision-making for conservation partners and agencies.
 - Creating user-friendly tools that allow the public to engage with science.
 ---
-## Software I Use
-[![My Skills](https://simpleskill.icons.workers.dev/svg?i=rstudioide,quarto,pycharm,googleearth,googleearthengine,googlecolab,arcgis,esri,mapbox,maplibre,openstreetmap,github,leaflet,overleaf,geopandas,tidyverse,numpy,jupyter&theme=light)](#)
+
+## Tools & Platforms
+
+| ![RStudio](https://simpleskill.icons.workers.dev/svg?i=rstudioide) | ![Quarto](https://simpleskill.icons.workers.dev/svg?i=quarto) | ![PyCharm](https://simpleskill.icons.workers.dev/svg?i=pycharm) | ![Google Earth](https://simpleskill.icons.workers.dev/svg?i=googleearth) | ![GEE](https://simpleskill.icons.workers.dev/svg?i=googleearthengine) |
+|---------------------------------|---------------------------------|---------------------------------|---------------------------------|---------------------------------|
+| RStudio | Quarto | PyCharm | Google Earth | Google Earth Engine |
+
+| ![Google Colab](https://simpleskill.icons.workers.dev/svg?i=googlecolab) | ![ArcGIS](https://simpleskill.icons.workers.dev/svg?i=arcgis) | ![ESRI](https://simpleskill.icons.workers.dev/svg?i=esri) | ![Mapbox](https://simpleskill.icons.workers.dev/svg?i=mapbox) | ![MapLibre](https://simpleskill.icons.workers.dev/svg?i=maplibre) |
+|---------------------------------|---------------------------------|---------------------------------|---------------------------------|---------------------------------|
+| Google Colab | ArcGIS | ESRI | Mapbox | MapLibre |
+
+| ![OSM](https://simpleskill.icons.workers.dev/svg?i=openstreetmap) | ![GitHub](https://simpleskill.icons.workers.dev/svg?i=github) | ![Leaflet](https://simpleskill.icons.workers.dev/svg?i=leaflet) | ![Overleaf](https://simpleskill.icons.workers.dev/svg?i=overleaf) | ![GeoPandas](https://simpleskill.icons.workers.dev/svg?i=geopandas) |
+|---------------------------------|---------------------------------|---------------------------------|---------------------------------|---------------------------------|
+| OpenStreetMap | GitHub | Leaflet | Overleaf | GeoPandas |
+
+| ![Tidyverse](https://simpleskill.icons.workers.dev/svg?i=tidyverse) | ![NumPy](https://simpleskill.icons.workers.dev/svg?i=numpy) | ![Jupyter](https://simpleskill.icons.workers.dev/svg?i=jupyter) |
+|---------------------------------|---------------------------------|---------------------------------|
+| Tidyverse | NumPy | Jupyter |
 
 ## Coding Languages
-[![My Skills](https://simpleskill.icons.workers.dev/svg?i=r,python,javascript,markdown,latex,git,gnubash,gdal&theme=light)](#)
+
+| ![R](https://simpleskill.icons.workers.dev/svg?i=r) | ![Python](https://simpleskill.icons.workers.dev/svg?i=python) | ![JavaScript](https://simpleskill.icons.workers.dev/svg?i=javascript) | ![Markdown](https://simpleskill.icons.workers.dev/svg?i=markdown) | ![LaTeX](https://simpleskill.icons.workers.dev/svg?i=latex) |
+|---------------------------------|---------------------------------|---------------------------------|---------------------------------|---------------------------------|
+| R | Python | JavaScript | Markdown | LaTeX |
+
+| ![Git](https://simpleskill.icons.workers.dev/svg?i=git) | ![Bash](https://simpleskill.icons.workers.dev/svg?i=gnubash) | ![GDAL](https://simpleskill.icons.workers.dev/svg?i=gdal) |
+|---------------------------------|---------------------------------|---------------------------------|
+| Git | Bash | GDAL |
+
 ---
 > Explore more case studies, maps, and publications at **[noahweidig.com](https://noahweidig.com)**.
 ---
