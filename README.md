@@ -33,11 +33,11 @@
 ## 🧠 Spatial Analytics Stack
 
 ### Software
-[![My Skills](https://simpleskill.icons.workers.dev/svg?i=rstudioide,quarto,pycharm,googleearth,googleearthengine,github,leaflet,overleaf&theme=light)](#)
+[![My Skills](https://simpleskill.icons.workers.dev/svg?i=rstudioide,quarto,pycharm,googleearth,googleearthengine,googlecolab,arcgis,esri,mapbox,maplibre,openstreetmap,github,leaflet,overleaf,geopandas,tidyverse,numpy,jupyter&theme=light)](#)
 
 
 ### Languages
-[![My Skills](https://simpleskill.icons.workers.dev/svg?i=r,python,javascript,markdown,latex,git,gnubash&theme=light)](#)
+[![My Skills](https://simpleskill.icons.workers.dev/svg?i=r,python,javascript,markdown,latex,git,gnubash,gdal&theme=light)](#)
 
 ---
 
