@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="http://raw.githubusercontent.com/noahweidig/noahweidig/refs/heads/main/weidig-github-banner.png" alt="Prescribed burn in Northwest Florida" width="100%">
+  <img src="http://raw.githubusercontent.com/noahweidig/noahweidig/refs/heads/main/weidig-github-banner.png" alt="Noah Weidig" width="100%">
 </p>
 
-<h1 align="center">Noah Weidig</h1>
+<h1 align="center" >Noah Weidig</h1>
 <h3 align="center">GIS Analyst · Data Scientist</h3>
 
 <p align="center">
@@ -20,35 +20,23 @@
 
 I leverage remote sensing, GIS, and data science to translate complex data into clear insight about how our world changes. I believe understanding patterns through time gives people the power to see beyond the moment and shape a more intentional world.
 
-### 🔍 Current Themes
+### 🔍 Current Projects
 
 - Understanding the role of Conservation Reserve Program lands in wildfire risk in the Great Plains.
+- Examining large wildfire regimes across the United States' Great Plains and Eastern Temperate Forests.
+- Assessing large wildfire damage and destruction to structures.
+- Curating the United States Census TIGER Roads spatial datasets in Google Earth Engine.
 - Building geospatial data products that support decision-making for conservation partners and agencies.
 - Creating user-friendly tools that allow the public to engage with science.
-
 ---
-
 ## Software I Use
 [![My Skills](https://simpleskill.icons.workers.dev/svg?i=rstudioide,quarto,pycharm,googleearth,googleearthengine,googlecolab,arcgis,esri,mapbox,maplibre,openstreetmap,github,leaflet,overleaf,geopandas,tidyverse,numpy,jupyter&theme=light)](#)
 
-
-### Coding Languages I Use
+## Coding Languages
 [![My Skills](https://simpleskill.icons.workers.dev/svg?i=r,python,javascript,markdown,latex,git,gnubash,gdal&theme=light)](#)
-
 ---
-
 > Explore more case studies, maps, and publications at **[noahweidig.com](https://noahweidig.com)**.
-
----
-
-## 📈 GitHub Snapshot
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=noahweidig&show_icons=true&theme=dark" height="150" alt="GitHub stats for Noah Weidig">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noahweidig&layout=compact&theme=dark" height="150" alt="Top languages for Noah Weidig">
-</p>
-
 ---
 
 ## 🤝 Let's Collaborate
-<p align="center"><em>I'm always excited to collaborate on projects that make landscapes and communities more resilient.</em></p>
+I'm always excited to collaborate on projects that make landscapes and communities more resilient.
