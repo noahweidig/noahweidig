@@ -23,6 +23,7 @@ I leverage remote sensing, GIS, and data science to translate complex data into 
 - Creating user-friendly tools that allow the public to engage with science.
 
 ## Tools & Platforms
+
 | ![RStudio](https://simpleskill.icons.workers.dev/svg?i=rstudioide) | ![Quarto](https://simpleskill.icons.workers.dev/svg?i=quarto) | ![PyCharm](https://simpleskill.icons.workers.dev/svg?i=pycharm&theme=light) | ![Google Earth](https://simpleskill.icons.workers.dev/svg?i=googleearth) | ![GEE](https://simpleskill.icons.workers.dev/svg?i=googleearthengine) | ![Google Colab](https://simpleskill.icons.workers.dev/svg?i=googlecolab) |
 |:--------------------------------:|:--------------------------------:|:--------------------------------:|:--------------------------------:|:--------------------------------:|:--------------------------------:|
 | RStudio | Quarto | PyCharm | Google Earth | GEE | Colab |
@@ -32,7 +33,9 @@ I leverage remote sensing, GIS, and data science to translate complex data into 
 | Leaflet | Overleaf | GeoPandas | Tidyverse | NumPy | Jupyter |
 
 ## Coding Languages
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noahweidig&layout=compact&bg_color=00000000)
+
 | ![R](https://simpleskill.icons.workers.dev/svg?i=r) | ![Python](https://simpleskill.icons.workers.dev/svg?i=python) | ![JavaScript](https://simpleskill.icons.workers.dev/svg?i=javascript) | ![Markdown](https://simpleskill.icons.workers.dev/svg?i=markdown&theme=light) | ![LaTeX](https://simpleskill.icons.workers.dev/svg?i=latex) | ![Git](https://simpleskill.icons.workers.dev/svg?i=git) |
 |:--------------------------------:|:--------------------------------:|:--------------------------------:|:--------------------------------:|:--------------------------------:|:--------------------------------:|
 | R                               | Python                          | JavaScript                      | Markdown                        | LaTeX                           | Git                             |
