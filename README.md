@@ -23,34 +23,21 @@ I leverage remote sensing, GIS, and data science to translate complex data into 
 - Creating user-friendly tools that allow the public to engage with science.
 
 ## Tools & Platforms
-
-| ![RStudio](https://simpleskill.icons.workers.dev/svg?i=rstudioide) | ![Quarto](https://simpleskill.icons.workers.dev/svg?i=quarto) | ![PyCharm](https://simpleskill.icons.workers.dev/svg?i=pycharm&theme=light) | ![Google Earth](https://simpleskill.icons.workers.dev/svg?i=googleearth) | ![GEE](https://simpleskill.icons.workers.dev/svg?i=googleearthengine) |
-|---------------------------------|---------------------------------|---------------------------------|---------------------------------|---------------------------------|
-| RStudio | Quarto | PyCharm | Google Earth | Google Earth Engine |
-
-| ![Google Colab](https://simpleskill.icons.workers.dev/svg?i=googlecolab) | ![ArcGIS](https://simpleskill.icons.workers.dev/svg?i=arcgis) | ![ESRI](https://simpleskill.icons.workers.dev/svg?i=esri&theme=light) | ![Mapbox](https://simpleskill.icons.workers.dev/svg?i=mapbox&theme=light) | ![MapLibre](https://simpleskill.icons.workers.dev/svg?i=maplibre) |
-|---------------------------------|---------------------------------|---------------------------------|---------------------------------|---------------------------------|
-| Google Colab | ArcGIS | ESRI | Mapbox | MapLibre |
-
-| ![OSM](https://simpleskill.icons.workers.dev/svg?i=openstreetmap) | ![GitHub](https://simpleskill.icons.workers.dev/svg?i=github&theme=light) | ![Leaflet](https://simpleskill.icons.workers.dev/svg?i=leaflet) | ![Overleaf](https://simpleskill.icons.workers.dev/svg?i=overleaf) | ![GeoPandas](https://simpleskill.icons.workers.dev/svg?i=geopandas) |
-|---------------------------------|---------------------------------|---------------------------------|---------------------------------|---------------------------------|
-| OpenStreetMap | GitHub | Leaflet | Overleaf | GeoPandas |
-
-| ![Tidyverse](https://simpleskill.icons.workers.dev/svg?i=tidyverse&theme=light) | ![NumPy](https://simpleskill.icons.workers.dev/svg?i=numpy) | ![Jupyter](https://simpleskill.icons.workers.dev/svg?i=jupyter) |
-|---------------------------------|---------------------------------|---------------------------------|
-| Tidyverse | NumPy | Jupyter |
+| ![RStudio](https://simpleskill.icons.workers.dev/svg?i=rstudioide) | ![Quarto](https://simpleskill.icons.workers.dev/svg?i=quarto) | ![PyCharm](https://simpleskill.icons.workers.dev/svg?i=pycharm&theme=light) | ![Google Earth](https://simpleskill.icons.workers.dev/svg?i=googleearth) | ![GEE](https://simpleskill.icons.workers.dev/svg?i=googleearthengine) | ![Google Colab](https://simpleskill.icons.workers.dev/svg?i=googlecolab) |
+|:--------------------------------:|:--------------------------------:|:--------------------------------:|:--------------------------------:|:--------------------------------:|:--------------------------------:|
+| RStudio | Quarto | PyCharm | Google Earth | GEE | Colab |
+| ![ArcGIS](https://simpleskill.icons.workers.dev/svg?i=arcgis) | ![ESRI](https://simpleskill.icons.workers.dev/svg?i=esri&theme=light) | ![Mapbox](https://simpleskill.icons.workers.dev/svg?i=mapbox&theme=light) | ![MapLibre](https://simpleskill.icons.workers.dev/svg?i=maplibre) | ![OSM](https://simpleskill.icons.workers.dev/svg?i=openstreetmap) | ![GitHub](https://simpleskill.icons.workers.dev/svg?i=github&theme=light) |
+| ArcGIS | ESRI | Mapbox | MapLibre | OSM | GitHub |
+| ![Leaflet](https://simpleskill.icons.workers.dev/svg?i=leaflet) | ![Overleaf](https://simpleskill.icons.workers.dev/svg?i=overleaf) | ![GeoPandas](https://simpleskill.icons.workers.dev/svg?i=geopandas) | ![Tidyverse](https://simpleskill.icons.workers.dev/svg?i=tidyverse&theme=light) | ![NumPy](https://simpleskill.icons.workers.dev/svg?i=numpy) | ![Jupyter](https://simpleskill.icons.workers.dev/svg?i=jupyter) |
+| Leaflet | Overleaf | GeoPandas | Tidyverse | NumPy | Jupyter |
 
 ## Coding Languages
-
-| ![R](https://simpleskill.icons.workers.dev/svg?i=r) | ![Python](https://simpleskill.icons.workers.dev/svg?i=python) | ![JavaScript](https://simpleskill.icons.workers.dev/svg?i=javascript) | ![Markdown](https://simpleskill.icons.workers.dev/svg?i=markdown&theme=light) | ![LaTeX](https://simpleskill.icons.workers.dev/svg?i=latex) |
-|---------------------------------|---------------------------------|---------------------------------|---------------------------------|---------------------------------|
-| R | Python | JavaScript | Markdown | LaTeX |
-
-| ![Git](https://simpleskill.icons.workers.dev/svg?i=git) | ![Bash](https://simpleskill.icons.workers.dev/svg?i=gnubash) | ![GDAL](https://simpleskill.icons.workers.dev/svg?i=gdal) |
-|---------------------------------|---------------------------------|---------------------------------|
-| Git | Bash | GDAL |
-
-> Explore more case studies, maps, and publications at **[noahweidig.com](https://noahweidig.com)**.
+| ![R](https://simpleskill.icons.workers.dev/svg?i=r) | ![Python](https://simpleskill.icons.workers.dev/svg?i=python) | ![JavaScript](https://simpleskill.icons.workers.dev/svg?i=javascript) | ![Markdown](https://simpleskill.icons.workers.dev/svg?i=markdown&theme=light) | ![LaTeX](https://simpleskill.icons.workers.dev/svg?i=latex) | ![Git](https://simpleskill.icons.workers.dev/svg?i=git) |
+|:--------------------------------:|:--------------------------------:|:--------------------------------:|:--------------------------------:|:--------------------------------:|:--------------------------------:|
+| R                               | Python                          | JavaScript                      | Markdown                        | LaTeX                           | Git                             |
+| ![Bash](https://simpleskill.icons.workers.dev/svg?i=gnubash) | ![GDAL](https://simpleskill.icons.workers.dev/svg?i=gdal) | ![HTML](https://simpleskill.icons.workers.dev/svg?i=html5) | ![CSS](https://simpleskill.icons.workers.dev/svg?i=css) | ![R](https://simpleskill.icons.workers.dev/svg?i=r) | ![Python](https://simpleskill.icons.workers.dev/svg?i=python) |
+| Bash                            | GDAL                            | HTML                            | CSS                              | R                               | Python                         |
 
 ## 🤝 Let's Collaborate
 I'm always excited to collaborate on projects that make landscapes and communities more resilient.
+> Explore more case studies, maps, and publications at **[noahweidig.com](https://noahweidig.com)**.
