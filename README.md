@@ -32,6 +32,7 @@ I leverage remote sensing, GIS, and data science to translate complex data into 
 | Leaflet | Overleaf | GeoPandas | Tidyverse | NumPy | Jupyter |
 
 ## Coding Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noahweidig&layout=compact&bg_color=00000000)
 | ![R](https://simpleskill.icons.workers.dev/svg?i=r) | ![Python](https://simpleskill.icons.workers.dev/svg?i=python) | ![JavaScript](https://simpleskill.icons.workers.dev/svg?i=javascript) | ![Markdown](https://simpleskill.icons.workers.dev/svg?i=markdown&theme=light) | ![LaTeX](https://simpleskill.icons.workers.dev/svg?i=latex) | ![Git](https://simpleskill.icons.workers.dev/svg?i=git) |
 |:--------------------------------:|:--------------------------------:|:--------------------------------:|:--------------------------------:|:--------------------------------:|:--------------------------------:|
 | R                               | Python                          | JavaScript                      | Markdown                        | LaTeX                           | Git                             |
