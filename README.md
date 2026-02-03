@@ -46,3 +46,5 @@ I leverage remote sensing, GIS, and data science to translate complex data into 
 ## 🤝 Let's Collaborate
 I'm always excited to collaborate on projects that make landscapes and communities more resilient.
 > Explore more case studies, maps, and publications at **[noahweidig.com](https://noahweidig.com)**.
+
+<a href="https://cal.com/yourname"><img src="https://img.shields.io/badge/-Schedule%20a%20Meeting-7C3AED?style=for-the-badge&logo=checkmarx&logoColor=white" height="30" alt="Schedule"></a>
