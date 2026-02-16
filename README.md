@@ -34,14 +34,11 @@ I leverage remote sensing, GIS, and data science to translate complex data into 
 | Leaflet | Overleaf | GeoPandas | Tidyverse | NumPy | Jupyter |
 
 ## Coding Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noahweidig&layout=compact&bg_color=00000000)
-
 | ![R](https://simpleskill.icons.workers.dev/svg?i=r) | ![Python](https://simpleskill.icons.workers.dev/svg?i=python) | ![JavaScript](https://simpleskill.icons.workers.dev/svg?i=javascript) | ![Markdown](https://simpleskill.icons.workers.dev/svg?i=markdown&theme=light) | ![LaTeX](https://simpleskill.icons.workers.dev/svg?i=latex) | ![Git](https://simpleskill.icons.workers.dev/svg?i=git) |
 |:--------------------------------:|:--------------------------------:|:--------------------------------:|:--------------------------------:|:--------------------------------:|:--------------------------------:|
 | R                               | Python                          | JavaScript                      | Markdown                        | LaTeX                           | Git                             |
-| ![Bash](https://simpleskill.icons.workers.dev/svg?i=gnubash) | ![GDAL](https://simpleskill.icons.workers.dev/svg?i=gdal) | ![HTML](https://simpleskill.icons.workers.dev/svg?i=html5) | ![CSS](https://simpleskill.icons.workers.dev/svg?i=css) | ![R](https://simpleskill.icons.workers.dev/svg?i=r) | ![Python](https://simpleskill.icons.workers.dev/svg?i=python) |
-| Bash                            | GDAL                            | HTML                            | CSS                              | R                               | Python                         |
+| ![Bash](https://simpleskill.icons.workers.dev/svg?i=gnubash) | ![GDAL](https://simpleskill.icons.workers.dev/svg?i=gdal) | ![HTML](https://simpleskill.icons.workers.dev/svg?i=html5) | ![CSS](https://simpleskill.icons.workers.dev/svg?i=css) | ![R](https://simpleskill.icons.workers.dev/svg?i=r) | ![Actions](https://simpleskill.icons.workers.dev/svg?i=githubactions) |
+| Bash                            | GDAL                            | HTML                            | CSS                              | R                               | Actions                         |
 
 ## 🤝 Let's Collaborate
 I'm always excited to collaborate on projects that make landscapes and communities more resilient.
