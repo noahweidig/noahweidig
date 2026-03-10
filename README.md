@@ -1,47 +1,120 @@
-# Noah Weidig <a href='https://noahweidig.com'><img src='https://raw.githubusercontent.com/noahweidig/noahweidig/main/NW%20Logo.png' align="right" height="138" alt="Noah Weidig Logo" /></a>
-**`GIS Analyst · Data Scientist`**
-<p align="left">
-  <a href="mailto:noah@noahweidig.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=minutemailer&logoColor=white" height="30" alt="Email"></a>
-  <a href="https://noahweidig.com"><img src="https://img.shields.io/badge/-Website-008080?style=for-the-badge&logo=nextdotjs&logoColor=white" height="30" alt="Website"></a>
-  <a href="https://noahweidig.substack.com/"><img src="https://img.shields.io/badge/-Substack-%23FF6719?style=for-the-badge&logo=substack&logoColor=white" height="30" alt="Substack"></a>
-  <a href="https://orcid.org/0000-0003-1205-3209"><img src="https://img.shields.io/badge/-ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" height="30" alt="ORCID"></a>
-  <a href="https://orcid.org/0000-0003-1205-3209"><img src="https://img.shields.io/badge/-Scholar-1c85dd?style=for-the-badge&logo=googlescholar&logoColor=white" height="30" alt="Google Scholar"></a>
-  <a href="https://www.linkedin.com/in/noahweidig/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=logmein&logoColor=white" height="30" alt="LinkedIn"></a>
-  <a href="https://buymeacoffee.com/noahweidig"><img src="https://img.shields.io/badge/-buymeacoffee-ffe700?style=for-the-badge&logo=buymeacoffee&logoColor=black" height="30" alt="Buy Me A Coffee"></a>
-</p>
+<div align="center">
 
-## What I Do
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Noah%20Weidig&fontSize=52&fontColor=e0e0ff&fontAlignY=38&desc=GIS%20Analyst%20·%20Data%20Scientist%20·%20Remote%20Sensing&descColor=9b9bdb&descAlignY=58&descSize=16" width="100%"/>
 
-I leverage remote sensing, GIS, and data science to translate complex data into clear insight about how our world changes. I believe understanding patterns through time gives people the power to see beyond the moment and shape a more intentional world.
+</div>
 
-### 🔍 Current Projects
+<br/>
 
-- Understanding the role of Conservation Reserve Program lands in wildfire risk in the Great Plains.
-- Examining large wildfire regimes across the United States' Great Plains and Eastern Temperate Forests.
-- Assessing large wildfire damage and destruction to structures.
-- Curating the United States Census TIGER Roads spatial datasets in Google Earth Engine.
-- Building geospatial data products that support decision-making for conservation partners and agencies.
-- Creating user-friendly tools that allow the public to engage with science.
+<div align="center">
 
-## Tools & Platforms
+```
+I translate the language of landscapes into maps, models, and meaning.
+Remote sensing. Spatial analysis. Time-series change detection.
+If Earth has a pattern, I want to find it.
+```
 
-| ![RStudio](https://simpleskill.icons.workers.dev/svg?i=rstudioide) | ![Quarto](https://simpleskill.icons.workers.dev/svg?i=quarto) | ![PyCharm](https://simpleskill.icons.workers.dev/svg?i=pycharm&theme=light) | ![Google Earth](https://simpleskill.icons.workers.dev/svg?i=googleearth) | ![GEE](https://simpleskill.icons.workers.dev/svg?i=googleearthengine) | ![Google Colab](https://simpleskill.icons.workers.dev/svg?i=googlecolab) |
-|:--------------------------------:|:--------------------------------:|:--------------------------------:|:--------------------------------:|:--------------------------------:|:--------------------------------:|
-| RStudio | Quarto | PyCharm | Google Earth | GEE | Colab |
-| ![ArcGIS](https://simpleskill.icons.workers.dev/svg?i=arcgis) | ![ESRI](https://simpleskill.icons.workers.dev/svg?i=esri&theme=light) | ![Mapbox](https://simpleskill.icons.workers.dev/svg?i=mapbox&theme=light) | ![MapLibre](https://simpleskill.icons.workers.dev/svg?i=maplibre) | ![OSM](https://simpleskill.icons.workers.dev/svg?i=openstreetmap) | ![GitHub](https://simpleskill.icons.workers.dev/svg?i=github&theme=light) |
-| ArcGIS | ESRI | Mapbox | MapLibre | OSM | GitHub |
-| ![Leaflet](https://simpleskill.icons.workers.dev/svg?i=leaflet) | ![Overleaf](https://simpleskill.icons.workers.dev/svg?i=overleaf) | ![GeoPandas](https://simpleskill.icons.workers.dev/svg?i=geopandas) | ![Tidyverse](https://simpleskill.icons.workers.dev/svg?i=tidyverse&theme=light) | ![NumPy](https://simpleskill.icons.workers.dev/svg?i=numpy) | ![Jupyter](https://simpleskill.icons.workers.dev/svg?i=jupyter) |
-| Leaflet | Overleaf | GeoPandas | Tidyverse | NumPy | Jupyter |
+</div>
 
-## Coding Languages
-| ![R](https://simpleskill.icons.workers.dev/svg?i=r) | ![Python](https://simpleskill.icons.workers.dev/svg?i=python) | ![JavaScript](https://simpleskill.icons.workers.dev/svg?i=javascript) | ![Markdown](https://simpleskill.icons.workers.dev/svg?i=markdown&theme=light) | ![LaTeX](https://simpleskill.icons.workers.dev/svg?i=latex) | ![Git](https://simpleskill.icons.workers.dev/svg?i=git) |
-|:--------------------------------:|:--------------------------------:|:--------------------------------:|:--------------------------------:|:--------------------------------:|:--------------------------------:|
-| R                               | Python                          | JavaScript                      | Markdown                        | LaTeX                           | Git                             |
-| ![Bash](https://simpleskill.icons.workers.dev/svg?i=gnubash) | ![GDAL](https://simpleskill.icons.workers.dev/svg?i=gdal) | ![HTML](https://simpleskill.icons.workers.dev/svg?i=html5) | ![CSS](https://simpleskill.icons.workers.dev/svg?i=css) | ![R](https://simpleskill.icons.workers.dev/svg?i=r) | ![Actions](https://simpleskill.icons.workers.dev/svg?i=githubactions) |
-| Bash                            | GDAL                            | HTML                            | CSS                              | R                               | Actions                         |
+<br/>
 
-## 🤝 Let's Collaborate
-I'm always excited to collaborate on projects that make landscapes and communities more resilient.
-> Explore more case studies, maps, and publications at **[noahweidig.com](https://noahweidig.com)**.
+<div align="center">
 
-<a href="https://cal.com/noah-weidig/meet"><img src="https://img.shields.io/badge/-Schedule%20a%20Meeting-7C3AED?style=for-the-badge&logo=checkmarx&logoColor=white" height="30" alt="Schedule"></a>
+[![Email](https://img.shields.io/badge/Email-noah%40noahweidig.com-7c3aed?style=flat-square&logo=minutemailer&logoColor=white)](mailto:noah@noahweidig.com)
+[![Website](https://img.shields.io/badge/Website-noahweidig.com-6d28d9?style=flat-square&logo=safari&logoColor=white)](https://noahweidig.com)
+[![Substack](https://img.shields.io/badge/Substack-noahweidig-4f46e5?style=flat-square&logo=substack&logoColor=white)](https://noahweidig.substack.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-noahweidig-2563eb?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noahweidig/)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0003--1205--3209-06b6d4?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-1205-3209)
+[![Scholar](https://img.shields.io/badge/Scholar-Publications-0ea5e9?style=flat-square&logo=googlescholar&logoColor=white)](https://orcid.org/0000-0003-1205-3209)
+
+</div>
+
+---
+
+## `$ whoami`
+
+> GIS analyst and data scientist working at the intersection of **remote sensing**, **conservation science**, and **spatial storytelling**. I build tools, maps, and models that help people understand how landscapes change — and what those changes mean.
+
+Understanding patterns through time gives people the power to see beyond the moment and shape a more intentional world.
+
+---
+
+## `🔥 Active Research`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Wildfire & Conservation**
+- 🌾 Role of Conservation Reserve Program lands in **wildfire risk** across the Great Plains
+- 🔥 Large wildfire **regime analysis** — Great Plains & Eastern Temperate Forests
+- 🏚️ Wildfire **damage assessment** to structures
+
+</td>
+<td width="50%" valign="top">
+
+**Geospatial Tools & Data**
+- 🛣️ Curating US Census TIGER Roads in **Google Earth Engine**
+- 📦 Building geospatial **data products** for conservation decision-making
+- 🌐 Designing **public-facing tools** for science engagement
+
+</td>
+</tr>
+</table>
+
+---
+
+## `⚙️ Stack`
+
+**Languages**
+
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3b82f6?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f59e0b?style=flat-square&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-1e293b?style=flat-square&logo=gnubash&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-f97316?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-2563eb?style=flat-square&logo=css3&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-475569?style=flat-square&logo=latex&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-0f172a?style=flat-square&logo=markdown&logoColor=white)
+
+**GIS & Remote Sensing**
+
+![Google Earth Engine](https://img.shields.io/badge/Earth%20Engine-4285F4?style=flat-square&logo=googleearthengine&logoColor=white)
+![ArcGIS](https://img.shields.io/badge/ArcGIS-2C7AC3?style=flat-square&logo=arcgis&logoColor=white)
+![GDAL](https://img.shields.io/badge/GDAL-06b6d4?style=flat-square&logo=gdal&logoColor=white)
+![OpenStreetMap](https://img.shields.io/badge/OSM-7c3aed?style=flat-square&logo=openstreetmap&logoColor=white)
+![Mapbox](https://img.shields.io/badge/Mapbox-0f172a?style=flat-square&logo=mapbox&logoColor=white)
+![MapLibre](https://img.shields.io/badge/MapLibre-4f46e5?style=flat-square&logo=maplibre&logoColor=white)
+![Leaflet](https://img.shields.io/badge/Leaflet-0ea5e9?style=flat-square&logo=leaflet&logoColor=white)
+
+**Data & Dev**
+
+![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=rstudioide&logoColor=white)
+![Tidyverse](https://img.shields.io/badge/Tidyverse-7c3aed?style=flat-square&logo=tidyverse&logoColor=white)
+![GeoPandas](https://img.shields.io/badge/GeoPandas-06b6d4?style=flat-square&logo=geopandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-4f46e5?style=flat-square&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-f97316?style=flat-square&logo=jupyter&logoColor=white)
+![Quarto](https://img.shields.io/badge/Quarto-2563eb?style=flat-square&logo=quarto&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/Actions-0f172a?style=flat-square&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-f43f5e?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## `🤝 Let's Work Together`
+
+I collaborate on projects that make **landscapes and communities more resilient** — from tool-building to research partnerships to data pipeline design.
+
+<div align="center">
+
+[![Schedule a Meeting](https://img.shields.io/badge/📅%20Schedule%20a%20Meeting-7c3aed?style=for-the-badge)](https://cal.com/noah-weidig/meet)
+[![Buy Me a Coffee](https://img.shields.io/badge/☕%20Buy%20Me%20a%20Coffee-f59e0b?style=for-the-badge&logoColor=black)](https://buymeacoffee.com/noahweidig)
+
+*Explore case studies, maps, and publications → **[noahweidig.com](https://noahweidig.com)***
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
+</div>
