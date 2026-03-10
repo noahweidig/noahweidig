@@ -1,8 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:1a1a3e&height=180&text=Noah%20Weidig&fontSize=52&fontColor=e8e8ff&fontAlignY=45&desc=GIS%20Analyst%20%C2%B7%20Data%20Scientist%20%C2%B7%20Remote%20Sensing&descColor=9090c0&descSize=14&descAlignY=68" width="100%"/>
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:7c3aed,50:1a1a2e,100:22c55e&text=Noah%20Weidig&fontSize=60&fontColor=ffffff&fontAlign=50&fontAlignY=45&desc=GIS%20Analyst%20%C2%B7%20Data%20Scientist%20%C2%B7%20Remote%20Sensing&descColor=d0d0ff&descSize=16&descAlign=50&descAlignY=65)
+
+</div>
 
 <br/>
+
+<div align="center">
 
 <p><em>I translate the language of landscapes into maps, models, and meaning.<br/>
 Remote sensing · Spatial analysis · Time-series change detection.<br/>
@@ -111,31 +115,6 @@ I collaborate on projects that make **landscapes and communities more resilient*
 
 <br/>
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 60" width="100%">
-  <defs>
-    <linearGradient id="footer-bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#1a1a3e"/>
-      <stop offset="50%" style="stop-color:#302b63"/>
-      <stop offset="100%" style="stop-color:#0f0c29"/>
-    </linearGradient>
-    <linearGradient id="footer-line" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#06b6d4;stop-opacity:0"/>
-      <stop offset="30%" style="stop-color:#06b6d4;stop-opacity:1"/>
-      <stop offset="70%" style="stop-color:#7c3aed;stop-opacity:1"/>
-      <stop offset="100%" style="stop-color:#7c3aed;stop-opacity:0"/>
-    </linearGradient>
-  </defs>
-  <rect width="900" height="60" fill="url(#footer-bg)"/>
-  <g stroke="#ffffff" stroke-opacity="0.03" stroke-width="1">
-    <line x1="0" y1="20" x2="900" y2="20"/>
-    <line x1="180" y1="0" x2="180" y2="60"/>
-    <line x1="360" y1="0" x2="360" y2="60"/>
-    <line x1="540" y1="0" x2="540" y2="60"/>
-    <line x1="720" y1="0" x2="720" y2="60"/>
-  </g>
-  <rect x="225" y="4" width="450" height="1" fill="url(#footer-line)" rx="1"/>
-  <text x="450" y="38" font-family="'Courier New', monospace" font-size="11"
-    fill="#6060a0" text-anchor="middle" letter-spacing="3">noahweidig.com</text>
-</svg>
+![footer](https://capsule-render.vercel.app/api?type=waving&height=80&color=0:22c55e,50:1a1a2e,100:7c3aed&section=footer&reversal=true)
 
 </div>
