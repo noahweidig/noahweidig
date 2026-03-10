@@ -134,8 +134,8 @@ I collaborate on projects that make **landscapes and communities more resilient*
     <line x1="720" y1="0" x2="720" y2="60"/>
   </g>
   <rect x="225" y="4" width="450" height="1" fill="url(#footer-line)" rx="1"/>
-  <text x="450" y="38" font-family="'Courier New', monospace" font-size="30"
-    fill="white" text-anchor="middle" letter-spacing="3">noahweidig.com</text>
+  <text x="450" y="38" font-family="'Courier New', monospace" font-size="11"
+    fill="#6060a0" text-anchor="middle" letter-spacing="3">noahweidig.com</text>
 </svg>
 
 </div>
