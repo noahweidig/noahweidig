@@ -1,13 +1,13 @@
-# Noah Weidig <a href='https://noahweidig.com'><img src='https://raw.githubusercontent.com/noahweidig/noahweidig/main/NW%20Logo.png' align="right" height="138" /></a>
+# Noah Weidig <a href='https://noahweidig.com'><img src='https://raw.githubusercontent.com/noahweidig/noahweidig/main/NW%20Logo.png' align="right" height="138" alt="Noah Weidig Logo" /></a>
 **`GIS Analyst · Data Scientist`**
 <p align="left">
   <a href="mailto:noah@noahweidig.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=minutemailer&logoColor=white" height="30" alt="Email"></a>
   <a href="https://noahweidig.com"><img src="https://img.shields.io/badge/-Website-008080?style=for-the-badge&logo=nextdotjs&logoColor=white" height="30" alt="Website"></a>
   <a href="https://noahweidig.substack.com/"><img src="https://img.shields.io/badge/-Substack-%23FF6719?style=for-the-badge&logo=substack&logoColor=white" height="30" alt="Substack"></a>
   <a href="https://orcid.org/0000-0003-1205-3209"><img src="https://img.shields.io/badge/-ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" height="30" alt="ORCID"></a>
-  <a href="https://orcid.org/0000-0003-1205-3209"><img src="https://img.shields.io/badge/-Scholar-1c85dd?style=for-the-badge&logo=googlescholar&logoColor=white" height="30" alt="ORCID"></a>
+  <a href="https://orcid.org/0000-0003-1205-3209"><img src="https://img.shields.io/badge/-Scholar-1c85dd?style=for-the-badge&logo=googlescholar&logoColor=white" height="30" alt="Google Scholar"></a>
   <a href="https://www.linkedin.com/in/noahweidig/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=logmein&logoColor=white" height="30" alt="LinkedIn"></a>
-  <a href="https://buymeacoffee.com/noahweidig"><img src="https://img.shields.io/badge/-buymeacoffee-ffe700?style=for-the-badge&logo=buymeacoffee&logoColor=black" height="30" alt="LinkedIn"></a>
+  <a href="https://buymeacoffee.com/noahweidig"><img src="https://img.shields.io/badge/-buymeacoffee-ffe700?style=for-the-badge&logo=buymeacoffee&logoColor=black" height="30" alt="Buy Me A Coffee"></a>
 </p>
 
 ## What I Do
