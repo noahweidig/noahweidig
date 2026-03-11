@@ -14,12 +14,12 @@ If Earth has a pattern, I want to find it.</em></p>
 
 <br/>
 
-[![Email](https://img.shields.io/badge/Email-noah%40noahweidig.com-7c3aed?style=flat-square&logo=minutemailer&logoColor=white&labelColor=1a1a2e)](mailto:noah@noahweidig.com)&nbsp;
-[![Website](https://img.shields.io/badge/Website-noahweidig.com-6d28d9?style=flat-square&logo=safari&logoColor=white&labelColor=1a1a2e)](https://noahweidig.com)&nbsp;
-[![Substack](https://img.shields.io/badge/Substack-Newsletter-4f46e5?style=flat-square&logo=substack&logoColor=white&labelColor=1a1a2e)](https://noahweidig.substack.com/)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-2563eb?style=flat-square&logo=linkedin&logoColor=white&labelColor=1a1a2e)](https://www.linkedin.com/in/noahweidig/)&nbsp;
-[![ORCID](https://img.shields.io/badge/ORCID-Profile-06b6d4?style=flat-square&logo=orcid&logoColor=white&labelColor=1a1a2e)](https://orcid.org/0000-0003-1205-3209)&nbsp;
-[![Scholar](https://img.shields.io/badge/Google-Scholar-0ea5e9?style=flat-square&logo=googlescholar&logoColor=white&labelColor=1a1a2e)](https://orcid.org/0000-0003-1205-3209)
+[![Email: noah@noahweidig.com](https://img.shields.io/badge/Email-noah%40noahweidig.com-7c3aed?style=flat-square&logo=minutemailer&logoColor=white&labelColor=1a1a2e)](mailto:noah@noahweidig.com)&nbsp;
+[![Website: noahweidig.com](https://img.shields.io/badge/Website-noahweidig.com-6d28d9?style=flat-square&logo=safari&logoColor=white&labelColor=1a1a2e)](https://noahweidig.com)&nbsp;
+[![Substack Newsletter](https://img.shields.io/badge/Substack-Newsletter-4f46e5?style=flat-square&logo=substack&logoColor=white&labelColor=1a1a2e)](https://noahweidig.substack.com/)&nbsp;
+[![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-2563eb?style=flat-square&logo=linkedin&logoColor=white&labelColor=1a1a2e)](https://www.linkedin.com/in/noahweidig/)&nbsp;
+[![ORCID Profile](https://img.shields.io/badge/ORCID-Profile-06b6d4?style=flat-square&logo=orcid&logoColor=white&labelColor=1a1a2e)](https://orcid.org/0000-0003-1205-3209)&nbsp;
+[![Google Scholar](https://img.shields.io/badge/Google-Scholar-0ea5e9?style=flat-square&logo=googlescholar&logoColor=white&labelColor=1a1a2e)](https://scholar.google.com/citations?user=Ml95eTwAAAAJ&hl=en)
 
 </div>
 
@@ -37,7 +37,7 @@ GIS analyst and data scientist at the intersection of **remote sensing**, **cons
 
 ### 🔬 &nbsp;Active Research
 
-<table>
+<table role="presentation">
 <tr>
 <td width="50%" valign="top">
 
@@ -68,12 +68,12 @@ GIS analyst and data scientist at the intersection of **remote sensing**, **cons
 
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white&labelColor=1a1a2e)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3b82f6?style=flat-square&logo=python&logoColor=white&labelColor=1a1a2e)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-f59e0b?style=flat-square&logo=javascript&logoColor=black&labelColor=1a1a2e)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-f59e0b?style=flat-square&logo=javascript&logoColor=white&labelColor=1a1a2e)&nbsp;
 ![Bash](https://img.shields.io/badge/Bash-94a3b8?style=flat-square&logo=gnubash&logoColor=white&labelColor=1a1a2e)&nbsp;
 ![HTML5](https://img.shields.io/badge/HTML5-f97316?style=flat-square&logo=html5&logoColor=white&labelColor=1a1a2e)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS-2563eb?style=flat-square&logo=css3&logoColor=white&labelColor=1a1a2e)&nbsp;
 ![LaTeX](https://img.shields.io/badge/LaTeX-64748b?style=flat-square&logo=latex&logoColor=white&labelColor=1a1a2e)&nbsp;
-![Markdown](https://img.shields.io/badge/Markdown-e2e8f0?style=flat-square&logo=markdown&logoColor=black&labelColor=1a1a2e)
+![Markdown](https://img.shields.io/badge/Markdown-e2e8f0?style=flat-square&logo=markdown&logoColor=white&labelColor=1a1a2e)
 
 **GIS & Remote Sensing**
 
@@ -107,7 +107,7 @@ I collaborate on projects that make **landscapes and communities more resilient*
 <br/>
 
 [![Schedule a Meeting](https://img.shields.io/badge/Schedule%20a%20Meeting-7c3aed?style=flat-square&logo=googlecalendar&logoColor=white&labelColor=1a1a2e&color=7c3aed)](https://cal.com/noah-weidig/meet)&nbsp;&nbsp;
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-f59e0b?style=flat-square&logo=buymeacoffee&logoColor=black&labelColor=1a1a2e)](https://buymeacoffee.com/noahweidig)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-f59e0b?style=flat-square&logo=buymeacoffee&logoColor=white&labelColor=1a1a2e)](https://buymeacoffee.com/noahweidig)
 
 <br/>
 
@@ -115,6 +115,6 @@ I collaborate on projects that make **landscapes and communities more resilient*
 
 <br/>
 
-![](https://capsule-render.vercel.app/api?type=waving&height=80&color=0:22c55e,50:1a1a2e,100:7c3aed&section=footer&reversal=true)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:22c55e,50:1a1a2e,100:7c3aed&section=footer&reversal=true" alt="" aria-hidden="true" />
 
 </div>
