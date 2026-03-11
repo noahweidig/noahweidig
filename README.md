@@ -19,7 +19,7 @@ If Earth has a pattern, I want to find it.</em></p>
 [![Substack](https://img.shields.io/badge/Substack-Newsletter-4f46e5?style=flat-square&logo=substack&logoColor=white&labelColor=1a1a2e)](https://noahweidig.substack.com/)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-2563eb?style=flat-square&logo=linkedin&logoColor=white&labelColor=1a1a2e)](https://www.linkedin.com/in/noahweidig/)&nbsp;
 [![ORCID](https://img.shields.io/badge/ORCID-Profile-06b6d4?style=flat-square&logo=orcid&logoColor=white&labelColor=1a1a2e)](https://orcid.org/0000-0003-1205-3209)&nbsp;
-[![Scholar](https://img.shields.io/badge/Google-Scholar-0ea5e9?style=flat-square&logo=googlescholar&logoColor=white&labelColor=1a1a2e)](https://orcid.org/0000-0003-1205-3209)
+[![Scholar](https://img.shields.io/badge/Google-Scholar-0ea5e9?style=flat-square&logo=googlescholar&logoColor=white&labelColor=1a1a2e)](https://scholar.google.com/citations?user=Ml95eTwAAAAJ&hl=en)
 
 </div>
 
@@ -37,7 +37,7 @@ GIS analyst and data scientist at the intersection of **remote sensing**, **cons
 
 ### 🔬 &nbsp;Active Research
 
-<table>
+<table role="presentation">
 <tr>
 <td width="50%" valign="top">
 
