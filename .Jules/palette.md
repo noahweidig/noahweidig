@@ -1,0 +1,3 @@
+## 2026-03-11 - Dynamic Image Accessibility in Profile Readmes
+**Learning:** Automatically generated header and footer images (e.g. via capsule-render APIs) often contain readable text that screen readers completely miss if given generic alt text like "header". Meanwhile, footer images are often purely visual decoration. This creates an inconsistent screen reader experience.
+**Action:** When working with dynamic README images, always transcribe the generated text content into the `alt` attribute for headers, and use an empty `alt` attribute (`![]()`) for purely decorative images to reduce noise.
