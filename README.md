@@ -45,7 +45,7 @@ GIS analyst and data scientist at the intersection of **remote sensing**, **cons
 
 - Role of Conservation Reserve Program lands in wildfire risk across the Great Plains
 - Large wildfire regime analysis — Great Plains & Eastern Temperate Forests
-- Wildfire damage and destruction assessment to structures
+- Wildfire damage assessment for structures
 
 </td>
 <td width="50%" valign="top">
