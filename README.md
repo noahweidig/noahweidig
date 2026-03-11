@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:7c3aed,50:1a1a2e,100:22c55e&text=Noah%20Weidig&fontSize=60&fontColor=ffffff&fontAlign=50&fontAlignY=45&desc=GIS%20Analyst%20%C2%B7%20Data%20Scientist%20%C2%B7%20Remote%20Sensing&descColor=d0d0ff&descSize=16&descAlign=50&descAlignY=65)
+![Noah Weidig - GIS Analyst, Data Scientist, Remote Sensing](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:7c3aed,50:1a1a2e,100:22c55e&text=Noah%20Weidig&fontSize=60&fontColor=ffffff&fontAlign=50&fontAlignY=45&desc=GIS%20Analyst%20%C2%B7%20Data%20Scientist%20%C2%B7%20Remote%20Sensing&descColor=d0d0ff&descSize=16&descAlign=50&descAlignY=65)
 
 </div>
 
@@ -115,6 +115,6 @@ I collaborate on projects that make **landscapes and communities more resilient*
 
 <br/>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&height=80&color=0:22c55e,50:1a1a2e,100:7c3aed&section=footer&reversal=true)
+![](https://capsule-render.vercel.app/api?type=waving&height=80&color=0:22c55e,50:1a1a2e,100:7c3aed&section=footer&reversal=true)
 
 </div>

@@ -1,0 +1,3 @@
+## 2026-03-11 - [Improved Alt Text for Profile Headers and Footers]
+**Learning:** Generic alt text like "header" or "footer" for generated images (e.g. via capsule-render) does not provide adequate context for screen readers. Header images often contain meaningful text or information about the person, while footer images are often purely decorative.
+**Action:** Replace generic alt text on meaningful header images with the actual content/context of the image (e.g., "Name - Titles"). Use empty alt text (`![]`) for purely decorative images like a standard footer graphic so screen readers can safely skip over them.
