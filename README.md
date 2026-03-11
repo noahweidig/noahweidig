@@ -68,12 +68,12 @@ GIS analyst and data scientist at the intersection of **remote sensing**, **cons
 
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white&labelColor=1a1a2e)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3b82f6?style=flat-square&logo=python&logoColor=white&labelColor=1a1a2e)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-f59e0b?style=flat-square&logo=javascript&logoColor=black&labelColor=1a1a2e)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-f59e0b?style=flat-square&logo=javascript&logoColor=white&labelColor=1a1a2e)&nbsp;
 ![Bash](https://img.shields.io/badge/Bash-94a3b8?style=flat-square&logo=gnubash&logoColor=white&labelColor=1a1a2e)&nbsp;
 ![HTML5](https://img.shields.io/badge/HTML5-f97316?style=flat-square&logo=html5&logoColor=white&labelColor=1a1a2e)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS-2563eb?style=flat-square&logo=css3&logoColor=white&labelColor=1a1a2e)&nbsp;
 ![LaTeX](https://img.shields.io/badge/LaTeX-64748b?style=flat-square&logo=latex&logoColor=white&labelColor=1a1a2e)&nbsp;
-![Markdown](https://img.shields.io/badge/Markdown-e2e8f0?style=flat-square&logo=markdown&logoColor=black&labelColor=1a1a2e)
+![Markdown](https://img.shields.io/badge/Markdown-e2e8f0?style=flat-square&logo=markdown&logoColor=white&labelColor=1a1a2e)
 
 **GIS & Remote Sensing**
 
@@ -107,7 +107,7 @@ I collaborate on projects that make **landscapes and communities more resilient*
 <br/>
 
 [![Schedule a Meeting](https://img.shields.io/badge/Schedule%20a%20Meeting-7c3aed?style=flat-square&logo=googlecalendar&logoColor=white&labelColor=1a1a2e&color=7c3aed)](https://cal.com/noah-weidig/meet)&nbsp;&nbsp;
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-f59e0b?style=flat-square&logo=buymeacoffee&logoColor=black&labelColor=1a1a2e)](https://buymeacoffee.com/noahweidig)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-f59e0b?style=flat-square&logo=buymeacoffee&logoColor=white&labelColor=1a1a2e)](https://buymeacoffee.com/noahweidig)
 
 <br/>
 
