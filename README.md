@@ -111,7 +111,7 @@ I collaborate on projects that make **landscapes and communities more resilient*
 
 <br/>
 
-<kbd>_[Case studies · Maps · Publications &nbsp;→&nbsp; **noahweidig.com**](https://noahweidig.com)_</kbd>
+[<kbd>_Case studies · Maps · Publications &nbsp;→&nbsp; **noahweidig.com**_</kbd>](https://noahweidig.com)
 
 <br/>
 
