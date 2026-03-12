@@ -14,12 +14,12 @@ If Earth has a pattern, I want to find it.</em></p>
 
 <br/>
 
-[![Email: noah@noahweidig.com](https://img.shields.io/badge/Email-noah%40noahweidig.com-7c3aed?style=flat-square&logo=minutemailer&logoColor=white&labelColor=1a1a2e)](mailto:noah@noahweidig.com)&nbsp;
-[![Website: noahweidig.com](https://img.shields.io/badge/Website-noahweidig.com-6d28d9?style=flat-square&logo=safari&logoColor=white&labelColor=1a1a2e)](https://noahweidig.com)&nbsp;
-[![Substack Newsletter](https://img.shields.io/badge/Substack-Newsletter-4f46e5?style=flat-square&logo=substack&logoColor=white&labelColor=1a1a2e)](https://noahweidig.substack.com/)&nbsp;
-[![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-Profile-2563eb?style=flat-square&logo=linkedin&logoColor=white&labelColor=1a1a2e)](https://www.linkedin.com/in/noahweidig/)&nbsp;
-[![ORCID Profile](https://img.shields.io/badge/ORCID-Profile-06b6d4?style=flat-square&logo=orcid&logoColor=white&labelColor=1a1a2e)](https://orcid.org/0000-0003-1205-3209)&nbsp;
-[![Google Scholar](https://img.shields.io/badge/Google-Scholar-0ea5e9?style=flat-square&logo=googlescholar&logoColor=white&labelColor=1a1a2e)](https://scholar.google.com/citations?user=Ml95eTwAAAAJ&hl=en)
+[![Email: noah@noahweidig.com](https://img.shields.io/badge/Email-noah%40noahweidig.com-7c3aed?style=flat-square&logo=minutemailer&logoColor=white&labelColor=1a1a2e)](mailto:noah@noahweidig.com "Send me an email")&nbsp;
+[![Website: noahweidig.com](https://img.shields.io/badge/Website-noahweidig.com-6d28d9?style=flat-square&logo=safari&logoColor=white&labelColor=1a1a2e)](https://noahweidig.com "Visit my website")&nbsp;
+[![Substack Newsletter](https://img.shields.io/badge/Substack-Newsletter-4f46e5?style=flat-square&logo=substack&logoColor=white&labelColor=1a1a2e)](https://noahweidig.substack.com/ "Read my Substack newsletter")&nbsp;
+[![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-Profile-2563eb?style=flat-square&logo=linkedin&logoColor=white&labelColor=1a1a2e)](https://www.linkedin.com/in/noahweidig/ "Connect with me on LinkedIn")&nbsp;
+[![ORCID Profile](https://img.shields.io/badge/ORCID-Profile-06b6d4?style=flat-square&logo=orcid&logoColor=white&labelColor=1a1a2e)](https://orcid.org/0000-0003-1205-3209 "View my ORCID profile")&nbsp;
+[![Google Scholar](https://img.shields.io/badge/Google-Scholar-0ea5e9?style=flat-square&logo=googlescholar&logoColor=white&labelColor=1a1a2e)](https://scholar.google.com/citations?user=Ml95eTwAAAAJ&hl=en "View my Google Scholar profile")
 
 </div>
 
@@ -106,8 +106,8 @@ I collaborate on projects that make **landscapes and communities more resilient*
 
 <br/>
 
-[![Schedule a Meeting](https://img.shields.io/badge/Schedule%20a%20Meeting-7c3aed?style=flat-square&logo=googlecalendar&logoColor=white&labelColor=1a1a2e&color=7c3aed)](https://cal.com/noah-weidig/meet)&nbsp;&nbsp;
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-f59e0b?style=flat-square&logo=buymeacoffee&logoColor=white&labelColor=1a1a2e)](https://buymeacoffee.com/noahweidig)
+[![Schedule a Meeting](https://img.shields.io/badge/Schedule%20a%20Meeting-7c3aed?style=flat-square&logo=googlecalendar&logoColor=white&labelColor=1a1a2e&color=7c3aed)](https://cal.com/noah-weidig/meet "Book a meeting with me")&nbsp;&nbsp;
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-f59e0b?style=flat-square&logo=buymeacoffee&logoColor=white&labelColor=1a1a2e)](https://buymeacoffee.com/noahweidig "Support my work")
 
 <br/>
 

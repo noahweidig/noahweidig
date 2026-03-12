@@ -6,3 +6,7 @@
 ## 2024-05-24 - Maximizing Clickable Hit Areas for UI Elements in Markdown
 **Learning:** In GitHub Flavored Markdown, using `<kbd>` tags for visual styling creates a button-like boundary, but if the `<kbd>` tag is on the outside of a link (`<kbd>[Text](url)</kbd>`), only the text inside acts as the clickable hit target, ignoring the padding of the `<kbd>` container.
 **Action:** Always place `<kbd>` styling tags *inside* Markdown links (`[<kbd>Text</kbd>](url)`). This ensures the entire visual area, including padding, is clickable, significantly improving the interactive footprint for both mobile taps and mouse clicks without any custom CSS.
+
+## 2024-05-25 - Native Tooltips on Markdown Badges
+**Learning:** Icon-only or badge-style links in a GitHub README often lack context about their destination or function. Since custom CSS and JavaScript are sanitized, traditional tooltips are unavailable, but the native Markdown `title` attribute on links provides an elegant, accessible alternative to improve confidence before clicking.
+**Action:** Always add descriptive `title` attributes using the Markdown link syntax (`[alt](url "Tooltip description")`) on image-based or abbreviated links in READMEs to create native hover tooltips and enhance context.
