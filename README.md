@@ -17,7 +17,7 @@ If Earth has a pattern, I want to find it.</em></p>
 [![Email: noah@noahweidig.com](https://img.shields.io/badge/Email-noah%40noahweidig.com-7c3aed?style=flat-square&logo=minutemailer&logoColor=white&labelColor=1a1a2e)](mailto:noah@noahweidig.com)&nbsp;
 [![Website: noahweidig.com](https://img.shields.io/badge/Website-noahweidig.com-6d28d9?style=flat-square&logo=safari&logoColor=white&labelColor=1a1a2e)](https://noahweidig.com)&nbsp;
 [![Substack Newsletter](https://img.shields.io/badge/Substack-Newsletter-4f46e5?style=flat-square&logo=substack&logoColor=white&labelColor=1a1a2e)](https://noahweidig.substack.com/)&nbsp;
-[![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-2563eb?style=flat-square&logo=linkedin&logoColor=white&labelColor=1a1a2e)](https://www.linkedin.com/in/noahweidig/)&nbsp;
+[![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-Profile-2563eb?style=flat-square&logo=linkedin&logoColor=white&labelColor=1a1a2e)](https://www.linkedin.com/in/noahweidig/)&nbsp;
 [![ORCID Profile](https://img.shields.io/badge/ORCID-Profile-06b6d4?style=flat-square&logo=orcid&logoColor=white&labelColor=1a1a2e)](https://orcid.org/0000-0003-1205-3209)&nbsp;
 [![Google Scholar](https://img.shields.io/badge/Google-Scholar-0ea5e9?style=flat-square&logo=googlescholar&logoColor=white&labelColor=1a1a2e)](https://scholar.google.com/citations?user=Ml95eTwAAAAJ&hl=en)
 
