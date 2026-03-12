@@ -100,7 +100,7 @@ GIS analyst and data scientist at the intersection of **remote sensing**, **cons
 
 ### 🤝 &nbsp;Let's Work Together
 
-I collaborate on projects that make **landscapes and communities more resilient** — from tool-building to research partnerships to data pipeline design.
+I collaborate on projects that build **resilient landscapes and communities** through tools, research partnerships, and data pipelines.
 
 <div align="center">
 
