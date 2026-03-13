@@ -107,7 +107,7 @@ I collaborate on projects that build **resilient landscapes and communities** th
 <br/>
 
 [![Schedule a Meeting](https://img.shields.io/badge/Schedule%20a%20Meeting-7c3aed?style=flat-square&logo=googlecalendar&logoColor=white&labelColor=1a1a2e&color=7c3aed)](https://cal.com/noah-weidig/meet "Book a meeting with me")&nbsp;&nbsp;
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-f59e0b?style=flat-square&logo=buymeacoffee&logoColor=white&labelColor=1a1a2e)](https://buymeacoffee.com/noahweidig "Support my work")
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=FFDD00&labelColor=1a1a2e)](https://buymeacoffee.com/noahweidig "Support my work")
 
 <br/>
 
