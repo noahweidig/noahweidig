@@ -1,8 +1,4 @@
-<div align="center">
 <img src="github-banner.png" width="100%" />
-![Noah Weidig - GIS Analyst, Data Scientist, Remote Sensing](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:7c3aed,50:1a1a2e,100:22c55e&text=Noah%20Weidig&fontSize=60&fontColor=ffffff&fontAlign=50&fontAlignY=45&desc=GIS%20Analyst%20%C2%B7%20Data%20Scientist%20%C2%B7%20Remote%20Sensing&descColor=d0d0ff&descSize=16&descAlign=50&descAlignY=65)
-
-</div>
 
 <br/>
 
