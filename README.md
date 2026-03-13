@@ -66,35 +66,35 @@ GIS analyst and data scientist at the intersection of **remote sensing**, **cons
 
 **Languages**
 
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white&labelColor=1a1a2e)&nbsp;
-![Python](https://img.shields.io/badge/Python-3b82f6?style=flat-square&logo=python&logoColor=white&labelColor=1a1a2e)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-f59e0b?style=flat-square&logo=javascript&logoColor=white&labelColor=1a1a2e)&nbsp;
-![Bash](https://img.shields.io/badge/Bash-94a3b8?style=flat-square&logo=gnubash&logoColor=white&labelColor=1a1a2e)&nbsp;
-![HTML5](https://img.shields.io/badge/HTML5-f97316?style=flat-square&logo=html5&logoColor=white&labelColor=1a1a2e)&nbsp;
-![CSS](https://img.shields.io/badge/CSS-2563eb?style=flat-square&logo=css3&logoColor=white&labelColor=1a1a2e)&nbsp;
-![LaTeX](https://img.shields.io/badge/LaTeX-64748b?style=flat-square&logo=latex&logoColor=white&labelColor=1a1a2e)&nbsp;
-![Markdown](https://img.shields.io/badge/Markdown-e2e8f0?style=flat-square&logo=markdown&logoColor=white&labelColor=1a1a2e)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white&labelColor=1a1a2e "R")&nbsp;
+![Python](https://img.shields.io/badge/Python-3b82f6?style=flat-square&logo=python&logoColor=white&labelColor=1a1a2e "Python")&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-f59e0b?style=flat-square&logo=javascript&logoColor=white&labelColor=1a1a2e "JavaScript")&nbsp;
+![Bash](https://img.shields.io/badge/Bash-94a3b8?style=flat-square&logo=gnubash&logoColor=white&labelColor=1a1a2e "Bash")&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-f97316?style=flat-square&logo=html5&logoColor=white&labelColor=1a1a2e "HTML5")&nbsp;
+![CSS](https://img.shields.io/badge/CSS-2563eb?style=flat-square&logo=css3&logoColor=white&labelColor=1a1a2e "CSS")&nbsp;
+![LaTeX](https://img.shields.io/badge/LaTeX-64748b?style=flat-square&logo=latex&logoColor=white&labelColor=1a1a2e "LaTeX")&nbsp;
+![Markdown](https://img.shields.io/badge/Markdown-e2e8f0?style=flat-square&logo=markdown&logoColor=white&labelColor=1a1a2e "Markdown")
 
 **GIS & Remote Sensing**
 
-![Earth Engine](https://img.shields.io/badge/Earth%20Engine-4285F4?style=flat-square&logo=googleearthengine&logoColor=white&labelColor=1a1a2e)&nbsp;
-![ArcGIS](https://img.shields.io/badge/ArcGIS-2C7AC3?style=flat-square&logo=arcgis&logoColor=white&labelColor=1a1a2e)&nbsp;
-![GDAL](https://img.shields.io/badge/GDAL-06b6d4?style=flat-square&logo=gdal&logoColor=white&labelColor=1a1a2e)&nbsp;
-![OpenStreetMap](https://img.shields.io/badge/OSM-7c3aed?style=flat-square&logo=openstreetmap&logoColor=white&labelColor=1a1a2e)&nbsp;
-![Mapbox](https://img.shields.io/badge/Mapbox-a78bfa?style=flat-square&logo=mapbox&logoColor=white&labelColor=1a1a2e)&nbsp;
-![MapLibre](https://img.shields.io/badge/MapLibre-4f46e5?style=flat-square&logo=maplibre&logoColor=white&labelColor=1a1a2e)&nbsp;
-![Leaflet](https://img.shields.io/badge/Leaflet-0ea5e9?style=flat-square&logo=leaflet&logoColor=white&labelColor=1a1a2e)
+![Earth Engine](https://img.shields.io/badge/Earth%20Engine-4285F4?style=flat-square&logo=googleearthengine&logoColor=white&labelColor=1a1a2e "Google Earth Engine")&nbsp;
+![ArcGIS](https://img.shields.io/badge/ArcGIS-2C7AC3?style=flat-square&logo=arcgis&logoColor=white&labelColor=1a1a2e "ArcGIS")&nbsp;
+![GDAL](https://img.shields.io/badge/GDAL-06b6d4?style=flat-square&logo=gdal&logoColor=white&labelColor=1a1a2e "GDAL")&nbsp;
+![OpenStreetMap](https://img.shields.io/badge/OSM-7c3aed?style=flat-square&logo=openstreetmap&logoColor=white&labelColor=1a1a2e "OpenStreetMap")&nbsp;
+![Mapbox](https://img.shields.io/badge/Mapbox-a78bfa?style=flat-square&logo=mapbox&logoColor=white&labelColor=1a1a2e "Mapbox")&nbsp;
+![MapLibre](https://img.shields.io/badge/MapLibre-4f46e5?style=flat-square&logo=maplibre&logoColor=white&labelColor=1a1a2e "MapLibre")&nbsp;
+![Leaflet](https://img.shields.io/badge/Leaflet-0ea5e9?style=flat-square&logo=leaflet&logoColor=white&labelColor=1a1a2e "Leaflet")
 
 **Data & Dev**
 
-![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=rstudioide&logoColor=white&labelColor=1a1a2e)&nbsp;
-![Tidyverse](https://img.shields.io/badge/Tidyverse-7c3aed?style=flat-square&logo=tidyverse&logoColor=white&labelColor=1a1a2e)&nbsp;
-![GeoPandas](https://img.shields.io/badge/GeoPandas-06b6d4?style=flat-square&logo=geopandas&logoColor=white&labelColor=1a1a2e)&nbsp;
-![NumPy](https://img.shields.io/badge/NumPy-4f46e5?style=flat-square&logo=numpy&logoColor=white&labelColor=1a1a2e)&nbsp;
-![Jupyter](https://img.shields.io/badge/Jupyter-f97316?style=flat-square&logo=jupyter&logoColor=white&labelColor=1a1a2e)&nbsp;
-![Quarto](https://img.shields.io/badge/Quarto-2563eb?style=flat-square&logo=quarto&logoColor=white&labelColor=1a1a2e)&nbsp;
-![GitHub Actions](https://img.shields.io/badge/Actions-94a3b8?style=flat-square&logo=githubactions&logoColor=white&labelColor=1a1a2e)&nbsp;
-![Git](https://img.shields.io/badge/Git-f43f5e?style=flat-square&logo=git&logoColor=white&labelColor=1a1a2e)
+![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=rstudioide&logoColor=white&labelColor=1a1a2e "RStudio")&nbsp;
+![Tidyverse](https://img.shields.io/badge/Tidyverse-7c3aed?style=flat-square&logo=tidyverse&logoColor=white&labelColor=1a1a2e "Tidyverse")&nbsp;
+![GeoPandas](https://img.shields.io/badge/GeoPandas-06b6d4?style=flat-square&logo=geopandas&logoColor=white&labelColor=1a1a2e "GeoPandas")&nbsp;
+![NumPy](https://img.shields.io/badge/NumPy-4f46e5?style=flat-square&logo=numpy&logoColor=white&labelColor=1a1a2e "NumPy")&nbsp;
+![Jupyter](https://img.shields.io/badge/Jupyter-f97316?style=flat-square&logo=jupyter&logoColor=white&labelColor=1a1a2e "Jupyter")&nbsp;
+![Quarto](https://img.shields.io/badge/Quarto-2563eb?style=flat-square&logo=quarto&logoColor=white&labelColor=1a1a2e "Quarto")&nbsp;
+![GitHub Actions](https://img.shields.io/badge/Actions-94a3b8?style=flat-square&logo=githubactions&logoColor=white&labelColor=1a1a2e "GitHub Actions")&nbsp;
+![Git](https://img.shields.io/badge/Git-f43f5e?style=flat-square&logo=git&logoColor=white&labelColor=1a1a2e "Git")
 
 ---
 
