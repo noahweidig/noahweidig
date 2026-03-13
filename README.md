@@ -1,4 +1,6 @@
-<img src="github-banner.png" width="100%" />
+<a href="https://noahweidig.com" target="_blank">
+  <img src="github-banner.png" width="100%" />
+</a>
 
 <br/>
 
