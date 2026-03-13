@@ -10,3 +10,7 @@
 ## 2024-05-25 - Native Tooltips on Markdown Badges
 **Learning:** Icon-only or badge-style links in a GitHub README often lack context about their destination or function. Since custom CSS and JavaScript are sanitized, traditional tooltips are unavailable, but the native Markdown `title` attribute on links provides an elegant, accessible alternative to improve confidence before clicking.
 **Action:** Always add descriptive `title` attributes using the Markdown link syntax (`[alt](url "Tooltip description")`) on image-based or abbreviated links in READMEs to create native hover tooltips and enhance context.
+
+## 2024-03-13 - Utilizing Native Markdown Tooltips for Accessibility
+**Learning:** Adding title attributes to static markdown images (e.g., `![Alt](url "Title")`) creates native, accessible hover tooltips for visual elements like technology badges without requiring custom CSS or JavaScript. This significantly improves context and accessibility for screen readers and sighted users who might not recognize an icon.
+**Action:** When adding or updating icon-only badges in markdown files, always include a descriptive title attribute to ensure the element's meaning is accessible to all users.
