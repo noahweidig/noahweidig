@@ -19,7 +19,7 @@ If Earth has a pattern, I want to find it.</em></p>
 [![Substack Newsletter](https://img.shields.io/badge/Substack-Newsletter-4f46e5?style=flat-square&logo=substack&logoColor=white&labelColor=1a1a2e)](https://noahweidig.substack.com/ "Read my Substack newsletter")&nbsp;
 [![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-Profile-2563eb?style=flat-square&logo=linkedin&logoColor=white&labelColor=1a1a2e)](https://www.linkedin.com/in/noahweidig/ "Connect with me on LinkedIn")&nbsp;
 [![ORCID Profile](https://img.shields.io/badge/ORCID-Profile-06b6d4?style=flat-square&logo=orcid&logoColor=white&labelColor=1a1a2e)](https://orcid.org/0000-0003-1205-3209 "View my ORCID profile")&nbsp;
-[![Google Scholar](https://img.shields.io/badge/Google-Scholar-0ea5e9?style=flat-square&logo=googlescholar&logoColor=white&labelColor=1a1a2e)](https://scholar.google.com/citations?user=Ml95eTwAAAAJ&hl=en "View my Google Scholar profile")
+[![Google Scholar Profile](https://img.shields.io/badge/Google%20Scholar-Profile-0ea5e9?style=flat-square&logo=googlescholar&logoColor=white&labelColor=1a1a2e)](https://scholar.google.com/citations?user=Ml95eTwAAAAJ&hl=en "View my Google Scholar profile")
 
 </div>
 
