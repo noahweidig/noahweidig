@@ -1,5 +1,5 @@
 <a href="https://noahweidig.com" target="_blank">
-  <img src="github-banner.png" width="100%" />
+  <img src="github-banner.png" width="100%" alt="Noah Weidig - GIS & Data Scientist" />
 </a>
 
 <br/>
