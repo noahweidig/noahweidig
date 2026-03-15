@@ -1,3 +1,3 @@
-## 2024-05-24 - Linked Banner Alt Text
-**Learning:** Banner images wrapped in hyperlinks without alt text create empty links for screen readers, hiding primary navigation paths.
-**Action:** Always provide descriptive alt text for linked images so screen readers can announce the link's purpose.
+## 2024-05-24 - Banner Image Accessibility
+**Learning:** In Markdown, banner or structural images wrapped in hyperlinks must have descriptive alt text. Without it, screen readers will announce the raw destination URL or treat it as an empty link, obscuring the primary navigation path.
+**Action:** Always ensure images wrapped in anchor tags have descriptive `alt` text to provide context for screen readers.
