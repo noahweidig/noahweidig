@@ -1,5 +1,6 @@
+<!-- ⚡ Bolt Optimization: Converted PNG banner (498KB) to WebP (33KB) to reduce image payload by ~93% -->
 <a href="https://noahweidig.com" target="_blank">
-  <img src="github-banner.png" width="100%" />
+  <img src="github-banner.webp" width="100%" />
 </a>
 
 <br/>
