@@ -114,6 +114,7 @@ I collaborate on projects that build **resilient landscapes and communities** th
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:22c55e,50:1a1a2e,100:7c3aed&section=footer&reversal=true" alt="" aria-hidden="true" />
+<!-- ⚡ Bolt Optimization: Hosted capsule-render SVG locally to eliminate 3rd-party network request (~220ms) -->
+<img src="footer-wave.svg" alt="" aria-hidden="true" />
 
 </div>
