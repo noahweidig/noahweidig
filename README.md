@@ -3,26 +3,18 @@
   <img src="github-banner.webp" width="100%" alt="Noah Weidig - Portfolio and Projects" />
 </a>
 
-<br/>
 
 <div align="center">
 
-<p><em>I translate the language of landscapes into maps, models, and meaning.<br/>
-Remote sensing · Spatial analysis · Time-series change detection.<br/>
-If Earth has a pattern, I want to find it.</em></p>
-
-<br/>
-
-[![Email: noah@noahweidig.com](https://img.shields.io/badge/Email-noah%40noahweidig.com-7c3aed?style=flat-square&logo=minutemailer&logoColor=white&labelColor=1a1a2e)](mailto:noah@noahweidig.com "Send me an email")&nbsp;
-[![Website: noahweidig.com](https://img.shields.io/badge/Website-noahweidig.com-6d28d9?style=flat-square&logo=safari&logoColor=white&labelColor=1a1a2e)](https://noahweidig.com "Visit my website")&nbsp;
-[![Substack Newsletter](https://img.shields.io/badge/Substack-Newsletter-4f46e5?style=flat-square&logo=substack&logoColor=white&labelColor=1a1a2e)](https://noahweidig.substack.com/ "Read my Substack newsletter")&nbsp;
-[![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-Profile-2563eb?style=flat-square&logo=linkedin&logoColor=white&labelColor=1a1a2e)](https://www.linkedin.com/in/noahweidig/ "Connect with me on LinkedIn")&nbsp;
-[![ORCID Profile](https://img.shields.io/badge/ORCID-Profile-06b6d4?style=flat-square&logo=orcid&logoColor=white&labelColor=1a1a2e)](https://orcid.org/0000-0003-1205-3209 "View my ORCID profile")&nbsp;
-[![Google Scholar Profile](https://img.shields.io/badge/Google%20Scholar-Profile-0ea5e9?style=flat-square&logo=googlescholar&logoColor=white&labelColor=1a1a2e)](https://scholar.google.com/citations?user=Ml95eTwAAAAJ&hl=en "View my Google Scholar profile")
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=maildotru&logoColor=white)](mailto:noah@noahweidig.com)
+[![Website](https://img.shields.io/badge/-Website-4A90D9?style=flat&logo=safari&logoColor=white)](https://noahweidig.com)
+[![Substack](https://img.shields.io/badge/-Substack-FF6719?style=flat&logo=substack&logoColor=white)](https://noahweidig.substack.com/)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin-white&logoColor=white)](https://www.linkedin.com/in/noahweidig/)
+[![ORCID](https://img.shields.io/badge/-ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-1205-3209)
+[![Scholar](https://img.shields.io/badge/-Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=Ml95eTwAAAAJ&hl=en)
 
 </div>
 
-<br/>
 
 ---
 
