@@ -29,28 +29,15 @@ GIS analyst and data scientist at the intersection of **remote sensing**, **cons
 
 ### 🔬 &nbsp;Active Research
 
-<table role="presentation">
-<tr>
-<td width="50%" valign="top">
-
 #### 🔥 Wildfire & Conservation
-
 - Role of Conservation Reserve Program lands in wildfire
 - Large wildfire regime analysis
 - Wildfire damage assessment for structures
 
-</td>
-<td width="50%" valign="top">
-
 #### 🗺️ Geospatial Tools & Data
-
 - Curating US Census TIGER Roads in GEE
 - Building geospatial products for decision-making
 - Designing public-facing tools for the public
-
-</td>
-</tr>
-</table>
 
 ---
 
