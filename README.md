@@ -35,8 +35,8 @@ GIS analyst and data scientist at the intersection of **remote sensing**, **cons
 
 #### 🔥 Wildfire & Conservation
 
-- Role of Conservation Reserve Program lands in wildfire risk across the Great Plains
-- Large wildfire regime analysis — Great Plains & Eastern Temperate Forests
+- Role of Conservation Reserve Program lands in wildfire
+- Large wildfire regime analysis
 - Wildfire damage assessment for structures
 
 </td>
@@ -44,9 +44,9 @@ GIS analyst and data scientist at the intersection of **remote sensing**, **cons
 
 #### 🗺️ Geospatial Tools & Data
 
-- Curating US Census TIGER Roads in Google Earth Engine
-- Building geospatial data products for conservation decision-making
-- Designing public-facing tools for science engagement
+- Curating US Census TIGER Roads in GEE
+- Building geospatial products for decision-making
+- Designing public-facing tools for the public
 
 </td>
 </tr>
