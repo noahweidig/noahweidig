@@ -40,7 +40,7 @@ GIS analyst and data scientist at the intersection of **remote sensing**, **cons
 <tr>
 <td width="50%" valign="top">
 
-**🔥 Wildfire & Conservation**
+#### 🔥 Wildfire & Conservation
 
 - Role of Conservation Reserve Program lands in wildfire risk across the Great Plains
 - Large wildfire regime analysis — Great Plains & Eastern Temperate Forests
@@ -49,7 +49,7 @@ GIS analyst and data scientist at the intersection of **remote sensing**, **cons
 </td>
 <td width="50%" valign="top">
 
-**🗺️ Geospatial Tools & Data**
+#### 🗺️ Geospatial Tools & Data
 
 - Curating US Census TIGER Roads in Google Earth Engine
 - Building geospatial data products for conservation decision-making
@@ -63,7 +63,7 @@ GIS analyst and data scientist at the intersection of **remote sensing**, **cons
 
 ### ⚙️ &nbsp;Stack
 
-**Languages**
+#### Languages
 
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white&labelColor=1a1a2e "R")&nbsp;
 ![Python](https://img.shields.io/badge/Python-3b82f6?style=flat-square&logo=python&logoColor=white&labelColor=1a1a2e "Python")&nbsp;
@@ -74,7 +74,7 @@ GIS analyst and data scientist at the intersection of **remote sensing**, **cons
 ![LaTeX](https://img.shields.io/badge/LaTeX-64748b?style=flat-square&logo=latex&logoColor=white&labelColor=1a1a2e "LaTeX")&nbsp;
 ![Markdown](https://img.shields.io/badge/Markdown-e2e8f0?style=flat-square&logo=markdown&logoColor=white&labelColor=1a1a2e "Markdown")
 
-**GIS & Remote Sensing**
+#### GIS & Remote Sensing
 
 ![Earth Engine](https://img.shields.io/badge/Earth%20Engine-4285F4?style=flat-square&logo=googleearthengine&logoColor=white&labelColor=1a1a2e "Google Earth Engine")&nbsp;
 ![ArcGIS](https://img.shields.io/badge/ArcGIS-2C7AC3?style=flat-square&logo=arcgis&logoColor=white&labelColor=1a1a2e "ArcGIS")&nbsp;
@@ -84,7 +84,7 @@ GIS analyst and data scientist at the intersection of **remote sensing**, **cons
 ![MapLibre](https://img.shields.io/badge/MapLibre-4f46e5?style=flat-square&logo=maplibre&logoColor=white&labelColor=1a1a2e "MapLibre")&nbsp;
 ![Leaflet](https://img.shields.io/badge/Leaflet-0ea5e9?style=flat-square&logo=leaflet&logoColor=white&labelColor=1a1a2e "Leaflet")
 
-**Data & Dev**
+#### Data & Dev
 
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=rstudioide&logoColor=white&labelColor=1a1a2e "RStudio")&nbsp;
 ![Tidyverse](https://img.shields.io/badge/Tidyverse-7c3aed?style=flat-square&logo=tidyverse&logoColor=white&labelColor=1a1a2e "Tidyverse")&nbsp;
