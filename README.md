@@ -3,15 +3,16 @@
   <img src="github-banner.webp" width="100%" alt="Noah Weidig - Portfolio and Projects" />
 </a>
 
+<br>
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=maildotru&logoColor=white)](mailto:noah@noahweidig.com)
-[![Website](https://img.shields.io/badge/-Website-4A90D9?style=flat&logo=safari&logoColor=white)](https://noahweidig.com)
-[![Substack](https://img.shields.io/badge/-Substack-FF6719?style=flat&logo=substack&logoColor=white)](https://noahweidig.substack.com/)
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin-white&logoColor=white)](https://www.linkedin.com/in/noahweidig/)
-[![ORCID](https://img.shields.io/badge/-ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-1205-3209)
-[![Scholar](https://img.shields.io/badge/-Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=Ml95eTwAAAAJ&hl=en)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:noah@noahweidig.com)
+[![Website](https://img.shields.io/badge/-Website-4A90D9?style=for-the-badge&logo=safari&logoColor=white)](https://noahweidig.com)
+[![Substack](https://img.shields.io/badge/-Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://noahweidig.substack.com/)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white)](https://www.linkedin.com/in/noahweidig/)
+[![ORCID](https://img.shields.io/badge/-ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-1205-3209)
+[![Scholar](https://img.shields.io/badge/-Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=Ml95eTwAAAAJ&hl=en)
 
 </div>
 
@@ -97,8 +98,8 @@ I collaborate on projects that build **resilient landscapes and communities** th
 
 <br/>
 
-[![Schedule a Meeting](https://img.shields.io/badge/Schedule%20a%20Meeting-7c3aed?style=flat-square&logo=googlecalendar&logoColor=white&labelColor=1a1a2e&color=7c3aed)](https://cal.com/noah-weidig/meet "Book a meeting with me")&nbsp;&nbsp;
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=FFDD00&labelColor=1a1a2e)](https://buymeacoffee.com/noahweidig "Support my work")
+[![Schedule a Meeting](https://img.shields.io/badge/Schedule%20a%20Meeting-7c3aed?style=for-the-badge)](https://cal.com/noah-weidig/meet "Book a meeting with me")&nbsp;&nbsp;
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/noahweidig "Support my work")
 
 <br/>
 
