@@ -7,10 +7,12 @@
 
 <div align="center">
 
+<!-- ⚡ Bolt Optimization: Hosted custom-icon-badges SVGs locally to eliminate 3rd-party network requests and DNS/TLS overhead -->
+
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:noah@noahweidig.com "Email me at noah@noahweidig.com")
-[![Website](https://custom-icon-badges.demolab.com/badge/-Website-4A90D9?style=for-the-badge&logo=globe&logoColor=white)](https://noahweidig.com "Visit my website: noahweidig.com")
+[![Website](badge-website.svg)](https://noahweidig.com "Visit my website: noahweidig.com")
 [![Substack](https://img.shields.io/badge/-Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://noahweidig.substack.com/ "Read my Substack")
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white)](https://www.linkedin.com/in/noahweidig/ "Connect with me on LinkedIn")
+[![LinkedIn](badge-linkedin.svg)](https://www.linkedin.com/in/noahweidig/ "Connect with me on LinkedIn")
 [![ORCID](https://img.shields.io/badge/-ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-1205-3209 "View my ORCID profile")
 [![Scholar](https://img.shields.io/badge/-Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=Ml95eTwAAAAJ&hl=en "View my Google Scholar profile")
 
@@ -86,7 +88,9 @@ I collaborate on projects that build **resilient landscapes and communities** th
 
 <br/>
 
-[![Schedule a Meeting](https://custom-icon-badges.demolab.com/badge/Meet%20with%20Me-7c3aed?style=for-the-badge&logo=calendar&logoColor=white)](https://cal.com/noah-weidig/meet "Book a meeting with me")&nbsp;&nbsp;
+<!-- ⚡ Bolt Optimization: Hosted custom-icon-badges SVGs locally to eliminate 3rd-party network requests and DNS/TLS overhead -->
+
+[![Schedule a Meeting](badge-meet.svg)](https://cal.com/noah-weidig/meet "Book a meeting with me")&nbsp;&nbsp;
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/noahweidig "Support my work")
 
 <br/>
