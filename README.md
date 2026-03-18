@@ -7,15 +7,14 @@
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:noah@noahweidig.com)
-[![Website](https://custom-icon-badges.demolab.com/badge/-Website-4A90D9?style=for-the-badge&logo=globe&logoColor=white)](https://noahweidig.com)
-[![Substack](https://img.shields.io/badge/-Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://noahweidig.substack.com/)
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white)](https://www.linkedin.com/in/noahweidig/)
-[![ORCID](https://img.shields.io/badge/-ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-1205-3209)
-[![Scholar](https://img.shields.io/badge/-Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=Ml95eTwAAAAJ&hl=en)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:noah@noahweidig.com "Email me at noah@noahweidig.com")
+[![Website](https://custom-icon-badges.demolab.com/badge/-Website-4A90D9?style=for-the-badge&logo=globe&logoColor=white)](https://noahweidig.com "Visit my website: noahweidig.com")
+[![Substack](https://img.shields.io/badge/-Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://noahweidig.substack.com/ "Read my Substack")
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white)](https://www.linkedin.com/in/noahweidig/ "Connect with me on LinkedIn")
+[![ORCID](https://img.shields.io/badge/-ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-1205-3209 "View my ORCID profile")
+[![Scholar](https://img.shields.io/badge/-Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=Ml95eTwAAAAJ&hl=en "View my Google Scholar profile")
 
 </div>
-
 
 ---
 
@@ -30,11 +29,13 @@ GIS analyst and data scientist at the intersection of **remote sensing**, **cons
 ### 🔬 &nbsp;Active Research
 
 #### 🔥 Wildfire & Conservation
+
 - Role of Conservation Reserve Program lands in wildfire
 - Large wildfire regime analysis
 - Wildfire damage assessment for structures
 
 #### 🗺️ Geospatial Tools & Data
+
 - Curating US Census TIGER Roads in GEE
 - Building geospatial products for decision-making
 - Designing public-facing tools for the public
