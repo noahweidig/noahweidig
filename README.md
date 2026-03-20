@@ -1,6 +1,6 @@
 <!-- ⚡ Bolt Optimization: Converted PNG banner (498KB) to WebP (33KB) to reduce image payload by ~93% -->
 <a href="https://noahweidig.com" target="_blank" title="Visit noahweidig.com (Opens in a new tab)">
-  <img src="github-banner.webp" width="100%" alt="Noah Weidig - Portfolio and Projects" />
+  <img src="github-banner.webp" width="100%" alt="Noah Weidig - GIS & Data Scientist" />
 </a>
 
 <br>
