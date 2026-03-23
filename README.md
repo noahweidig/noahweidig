@@ -62,7 +62,7 @@ GIS analyst and data scientist at the intersection of **remote sensing**, **cons
 ![Earth Engine](icons/badge-earth-engine.svg "Google Earth Engine")&nbsp;
 ![ArcGIS](icons/badge-arcgis.svg "ArcGIS")&nbsp;
 ![GDAL](icons/badge-gdal.svg "GDAL")&nbsp;
-![OpenStreetMap](icons/badge-osm.svg "OpenStreetMap")&nbsp;
+![OSM](icons/badge-osm.svg "OpenStreetMap")&nbsp;
 ![Mapbox](icons/badge-mapbox.svg "Mapbox")&nbsp;
 ![MapLibre](icons/badge-maplibre.svg "MapLibre")&nbsp;
 ![Leaflet](icons/badge-leaflet.svg "Leaflet")
@@ -75,7 +75,7 @@ GIS analyst and data scientist at the intersection of **remote sensing**, **cons
 ![NumPy](icons/badge-numpy.svg "NumPy")&nbsp;
 ![Jupyter](icons/badge-jupyter.svg "Jupyter")&nbsp;
 ![Quarto](icons/badge-quarto.svg "Quarto")&nbsp;
-![GitHub Actions](icons/badge-actions.svg "GitHub Actions")&nbsp;
+![Actions](icons/badge-actions.svg "GitHub Actions")&nbsp;
 ![Git](icons/badge-git.svg "Git")
 
 ---
@@ -90,7 +90,7 @@ I collaborate on projects that build **resilient landscapes and communities** th
 
 <!-- ⚡ Bolt Optimization: Hosted custom-icon-badges SVGs locally to eliminate 3rd-party network requests and DNS/TLS overhead -->
 
-[![Schedule a Meeting](icons/badge-meet.svg)](https://cal.com/noah-weidig/meet "Book a meeting with me")&nbsp;&nbsp;
+[![MEET WITH ME](icons/badge-meet.svg)](https://cal.com/noah-weidig/meet "Book a meeting with me")&nbsp;&nbsp;
 [![Buy Me a Coffee](icons/badge-coffee.svg)](https://buymeacoffee.com/noahweidig "Support my work")
 
 <br/>
