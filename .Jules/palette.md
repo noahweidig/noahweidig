@@ -1,3 +1,6 @@
 ## 2024-03-20 - Markdown Aria-Hidden Limitation
 **Learning:** GitHub's markdown parser sanitizes `aria-hidden` attributes on inline HTML elements, making it ineffective for hiding decorative text or emojis. However, for structural banner/footer images like `<img>`, empty `alt=""` is standard for decorative images, but when it's just an `<img>` tag without a link, it's decorative anyway.
 **Action:** Use standard empty `alt=""` for decorative images instead of relying solely on `aria-hidden` which may be stripped.
+## 2024-03-22 - Aligning Alt Text with Burned-in Image Text
+**Learning:** For Markdown images containing explicit burned-in text (like SVG badges), the markdown `alt` text (`![alt](url)`) must match or contain the visible text to satisfy WCAG 1.1.1 (Non-text Content) and WCAG 2.5.3 (Label in Name). If a badge visibly reads "MEET WITH ME" or "OSM", providing generic or interpretive alt text like "Schedule a Meeting" or "OpenStreetMap" creates a mismatch for speech-input users and screen reader parity.
+**Action:** Always ensure markdown `alt` text reflects the exact burned-in text of the image. Supplemental context can still be provided in the native markdown tooltip (e.g., `![OSM](url "OpenStreetMap")`).
