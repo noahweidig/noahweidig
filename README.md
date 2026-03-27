@@ -28,7 +28,7 @@ GIS analyst and data scientist at the intersection of **remote sensing**, **cons
 
 ---
 
-### 🔬 &nbsp;Active Research
+### 🔬 &nbsp;Current Projects
 
 #### 🔥 Wildfire & Conservation
 
