@@ -1,0 +1,11 @@
+{
+  "name": "noahweidig",
+  "version": "1.0.0",
+  "description": "Personal portfolio and README renderer",
+  "scripts": {
+    "render": "node scripts/render-readme.js"
+  },
+  "dependencies": {
+    "markdown-it": "^14.0.0"
+  }
+}
