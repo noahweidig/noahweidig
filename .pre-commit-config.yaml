@@ -1,0 +1,4 @@
+# Pre-commit configuration
+# Hooks to run before each commit
+
+repos: []
