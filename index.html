@@ -1,0 +1,373 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Noah Weidig - GIS & Data Scientist">
+    <meta name="theme-color" content="#1a1a1a">
+    <title>Noah Weidig - GIS & Data Scientist</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        :root {
+            --bg-primary: #ffffff;
+            --bg-secondary: #f5f5f5;
+            --text-primary: #1a1a1a;
+            --text-secondary: #666666;
+            --border-color: #e0e0e0;
+            --accent-color: #0066cc;
+            --accent-hover: #0052a3;
+        }
+
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --bg-primary: #1a1a1a;
+                --bg-secondary: #2a2a2a;
+                --text-primary: #ffffff;
+                --text-secondary: #b0b0b0;
+                --border-color: #404040;
+                --accent-color: #4d94ff;
+                --accent-hover: #80b3ff;
+            }
+        }
+
+        html {
+            scroll-behavior: smooth;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+            line-height: 1.6;
+            color: var(--text-primary);
+            background-color: var(--bg-primary);
+            transition: background-color 0.3s, color 0.3s;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 2rem;
+        }
+
+        /* Typography */
+        h1, h2, h3, h4, h5, h6 {
+            margin-top: 1.5em;
+            margin-bottom: 0.5em;
+            line-height: 1.3;
+            font-weight: 600;
+        }
+
+        h1 {
+            font-size: 2.5rem;
+            color: var(--text-primary);
+        }
+
+        h2 {
+            font-size: 2rem;
+            color: var(--text-primary);
+            border-bottom: 2px solid var(--accent-color);
+            padding-bottom: 0.5rem;
+        }
+
+        h3 {
+            font-size: 1.5rem;
+            color: var(--accent-color);
+        }
+
+        h4, h5, h6 {
+            font-size: 1.1rem;
+            color: var(--text-secondary);
+        }
+
+        p {
+            margin-bottom: 1rem;
+            color: var(--text-secondary);
+        }
+
+        a {
+            color: var(--accent-color);
+            text-decoration: none;
+            transition: color 0.2s;
+            border-bottom: 1px solid transparent;
+        }
+
+        a:hover {
+            color: var(--accent-hover);
+            border-bottom-color: var(--accent-hover);
+        }
+
+        /* Images */
+        img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+            margin: 1.5rem 0;
+        }
+
+        /* Code */
+        code {
+            background-color: var(--bg-secondary);
+            padding: 0.2em 0.4em;
+            border-radius: 3px;
+            font-family: 'Monaco', 'Courier New', monospace;
+            font-size: 0.9em;
+        }
+
+        pre {
+            background-color: var(--bg-secondary);
+            padding: 1rem;
+            border-radius: 6px;
+            overflow-x: auto;
+            margin-bottom: 1rem;
+            border-left: 3px solid var(--accent-color);
+        }
+
+        pre code {
+            background: none;
+            padding: 0;
+        }
+
+        /* Lists */
+        ul, ol {
+            margin-left: 2rem;
+            margin-bottom: 1rem;
+        }
+
+        li {
+            margin-bottom: 0.5rem;
+            color: var(--text-secondary);
+        }
+
+        /* Blockquotes */
+        blockquote {
+            border-left: 4px solid var(--accent-color);
+            padding-left: 1rem;
+            margin: 1.5rem 0;
+            color: var(--text-secondary);
+            font-style: italic;
+        }
+
+        /* Horizontal Rules */
+        hr {
+            border: none;
+            border-top: 2px solid var(--border-color);
+            margin: 2rem 0;
+        }
+
+        /* Dividers */
+        div[align="center"] {
+            text-align: center;
+            margin: 2rem 0;
+        }
+
+        /* Badges and badges in badges container */
+        div[align="center"] img {
+            display: inline-block;
+            margin: 0.5rem 0.25rem;
+            vertical-align: middle;
+            height: 40px;
+        }
+
+        /* Links as keyboard buttons */
+        kbd {
+            background-color: var(--bg-secondary);
+            border: 1px solid var(--border-color);
+            border-radius: 4px;
+            padding: 0.4em 0.6em;
+            font-family: monospace;
+            font-size: 0.9em;
+            display: inline-block;
+            margin: 0 0.2em;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+        /* Tables */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 1.5rem 0;
+        }
+
+        th {
+            background-color: var(--bg-secondary);
+            padding: 0.75rem;
+            text-align: left;
+            font-weight: 600;
+            border-bottom: 2px solid var(--border-color);
+        }
+
+        td {
+            padding: 0.75rem;
+            border-bottom: 1px solid var(--border-color);
+        }
+
+        tr:hover {
+            background-color: var(--bg-secondary);
+        }
+
+        /* Footer */
+        footer {
+            text-align: center;
+            margin-top: 3rem;
+            padding-top: 2rem;
+            border-top: 2px solid var(--border-color);
+            color: var(--text-secondary);
+            font-size: 0.9rem;
+        }
+
+        /* Utility classes */
+        .sr-only {
+            position: absolute;
+            width: 1px;
+            height: 1px;
+            padding: 0;
+            margin: -1px;
+            overflow: hidden;
+            clip: rect(0, 0, 0, 0);
+            white-space: nowrap;
+            border-width: 0;
+        }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            .container {
+                padding: 1rem;
+            }
+
+            h1 {
+                font-size: 2rem;
+            }
+
+            h2 {
+                font-size: 1.5rem;
+            }
+
+            h3 {
+                font-size: 1.25rem;
+            }
+
+            div[align="center"] img {
+                height: 32px;
+            }
+        }
+
+        /* Print styles */
+        @media print {
+            body {
+                background: white;
+                color: black;
+            }
+
+            a {
+                color: #0066cc;
+            }
+
+            a::after {
+                content: " (" attr(href) ")";
+            }
+        }
+
+        /* Animation on load */
+        .container {
+            animation: fadeIn 0.5s ease-in;
+        }
+
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+            }
+            to {
+                opacity: 1;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- ⚡ Bolt Optimization: Converted PNG banner (498KB) to WebP (33KB) to reduce image payload by ~93% -->
+<a href="https://noahweidig.com" target="_blank" title="Visit noahweidig.com (Opens in a new tab)">
+  <img src="github-banner.webp" width="100%" alt="Noah Weidig - GIS & Data Scientist" />
+</a>
+<br>
+<div align="center">
+<!-- ⚡ Bolt Optimization: Hosted custom-icon-badges SVGs locally to eliminate 3rd-party network requests and DNS/TLS overhead -->
+<p><a href="mailto:noah@noahweidig.com" title="Email me at noah@noahweidig.com"><img src="icons/badge-email.svg" alt="Email"></a>
+<a href="https://noahweidig.com" title="Visit my website: noahweidig.com"><img src="icons/badge-website.svg" alt="Website"></a>
+<a href="https://noahweidig.substack.com/" title="Read my Substack"><img src="icons/badge-substack.svg" alt="Substack"></a>
+<a href="https://www.linkedin.com/in/noahweidig/" title="Connect with me on LinkedIn"><img src="icons/badge-linkedin.svg" alt="LinkedIn"></a>
+<a href="https://orcid.org/0000-0003-1205-3209" title="View my ORCID profile"><img src="icons/badge-orcid.svg" alt="ORCID"></a>
+<a href="https://scholar.google.com/citations?user=Ml95eTwAAAAJ&amp;hl=en" title="View my Google Scholar profile"><img src="icons/badge-scholar.svg" alt="Scholar"></a></p>
+</div>
+<hr>
+<h3>👤  About</h3>
+<p>GIS analyst and data scientist at the intersection of <strong>remote sensing</strong>, <strong>conservation science</strong>, and <strong>spatial storytelling</strong>. I build tools, maps, and models that help people understand how landscapes change — and what those changes mean.</p>
+<blockquote>
+<p>Understanding patterns through time gives people the power to see beyond the moment and shape a more intentional world.</p>
+</blockquote>
+<hr>
+<h3>🔬  Active Research</h3>
+<h4>🔥 Wildfire &amp; Conservation</h4>
+<ul>
+<li>Role of Conservation Reserve Program lands in wildfire</li>
+<li>Large wildfire regime analysis</li>
+<li>Wildfire damage assessment for structures</li>
+</ul>
+<h4>🗺️ Geospatial Tools &amp; Data</h4>
+<ul>
+<li>Curating US Census TIGER Roads in GEE</li>
+<li>Building geospatial products for decision-making</li>
+<li>Designing public-facing tools for the public</li>
+</ul>
+<hr>
+<h3>⚙️  Stack</h3>
+<h4>Languages</h4>
+<p><img src="icons/badge-r.svg" alt="R" title="R"> 
+<img src="icons/badge-python.svg" alt="Python" title="Python"> 
+<img src="icons/badge-javascript.svg" alt="JavaScript" title="JavaScript"> 
+<img src="icons/badge-bash.svg" alt="Bash" title="Bash"> 
+<img src="icons/badge-html5.svg" alt="HTML5" title="HTML5"> 
+<img src="icons/badge-css.svg" alt="CSS" title="CSS"> 
+<img src="icons/badge-latex.svg" alt="LaTeX" title="LaTeX"> 
+<img src="icons/badge-markdown.svg" alt="Markdown" title="Markdown"></p>
+<h4>GIS &amp; Remote Sensing</h4>
+<p><img src="icons/badge-earth-engine.svg" alt="Earth Engine" title="Google Earth Engine"> 
+<img src="icons/badge-arcgis.svg" alt="ArcGIS" title="ArcGIS"> 
+<img src="icons/badge-gdal.svg" alt="GDAL" title="GDAL"> 
+<img src="icons/badge-osm.svg" alt="OSM" title="OpenStreetMap"> 
+<img src="icons/badge-mapbox.svg" alt="Mapbox" title="Mapbox"> 
+<img src="icons/badge-maplibre.svg" alt="MapLibre" title="MapLibre"> 
+<img src="icons/badge-leaflet.svg" alt="Leaflet" title="Leaflet"></p>
+<h4>Data &amp; Dev</h4>
+<p><img src="icons/badge-rstudio.svg" alt="RStudio" title="RStudio"> 
+<img src="icons/badge-tidyverse.svg" alt="Tidyverse" title="Tidyverse"> 
+<img src="icons/badge-geopandas.svg" alt="GeoPandas" title="GeoPandas"> 
+<img src="icons/badge-numpy.svg" alt="NumPy" title="NumPy"> 
+<img src="icons/badge-jupyter.svg" alt="Jupyter" title="Jupyter"> 
+<img src="icons/badge-quarto.svg" alt="Quarto" title="Quarto"> 
+<img src="icons/badge-actions.svg" alt="Actions" title="GitHub Actions"> 
+<img src="icons/badge-git.svg" alt="Git" title="Git"></p>
+<hr>
+<h3>🤝  Let’s Work Together</h3>
+<p>I collaborate on projects that build <strong>resilient landscapes and communities</strong> through tools, research partnerships, and data pipelines.</p>
+<div align="center">
+<br/>
+<!-- ⚡ Bolt Optimization: Hosted custom-icon-badges SVGs locally to eliminate 3rd-party network requests and DNS/TLS overhead -->
+<p><a href="https://cal.com/noah-weidig/meet" title="Book a meeting with me"><img src="icons/badge-meet.svg" alt="MEET WITH ME"></a>  
+<a href="https://buymeacoffee.com/noahweidig" title="Support my work"><img src="icons/badge-coffee.svg" alt="Buy Me a Coffee"></a></p>
+<br/>
+<p><a href="https://noahweidig.com" title="View my full portfolio at noahweidig.com"><kbd><em>Case studies · Maps · Publications  →  <strong>noahweidig.com</strong></em></kbd></a></p>
+<br/>
+<!-- ⚡ Bolt Optimization: Hosted capsule-render SVG locally to eliminate 3rd-party network request (~220ms) -->
+<img src="icons/footer-wave.svg" alt="" aria-hidden="true" />
+</div>
+
+    </div>
+    <footer>
+        <p>Generated by <a href="https://github.com/features/actions">GitHub Actions</a> • Last updated on <time>7/30/2026</time></p>
+    </footer>
+</body>
+</html>
