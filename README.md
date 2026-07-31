@@ -80,7 +80,7 @@ GIS analyst and data scientist at the intersection of **remote sensing**, **cons
 
 ---
 
-## 📈 Contributions
+### 📈 Contributions
 
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub contribution graph">
