@@ -80,6 +80,14 @@ GIS analyst and data scientist at the intersection of **remote sensing**, **cons
 
 ---
 
+## 📈 Contributions
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub contribution graph">
+</p>
+
+---
+
 ### 🤝 &nbsp;Let's Work Together
 
 I collaborate on projects that build **resilient landscapes and communities** through tools, research partnerships, and data pipelines.
