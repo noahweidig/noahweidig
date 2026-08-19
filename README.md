@@ -86,6 +86,11 @@ GIS analyst and data scientist at the intersection of **remote sensing**, **cons
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub contribution graph">
 </p>
 
+<p>
+  <img src="https://raw.githubusercontent.com/noahweidig/github-stats/generated/overview.svg" width="360">
+  <img src="https://raw.githubusercontent.com/noahweidig/github-stats/generated/languages.svg" width="360">
+</p>
+
 ---
 
 ### 🤝 &nbsp;Let's Work Together
