@@ -6,6 +6,6 @@
     "render": "node scripts/render-readme.js"
   },
   "dependencies": {
-    "markdown-it": "^14.0.0"
+    "markdown-it": "^15.0.0"
   }
 }
