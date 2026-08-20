@@ -8,6 +8,8 @@ on:
       - 'README.md'
       - 'icons/**'
       - 'github-banner.webp'
+      - 'stats/**'
+      - 'profile-3d-contrib/**'
       - '.github/workflows/render-readme.yml'
   workflow_dispatch:
 
@@ -48,6 +50,8 @@ jobs:
         run: |
           mkdir -p _site
           cp index.html _site/index.html
+          cp -r icons stats profile-3d-contrib _site/
+          cp github-banner.webp _site/
 
       - name: Upload to Pages
         uses: actions/upload-pages-artifact@v3
