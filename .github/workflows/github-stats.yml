@@ -1,0 +1,46 @@
+name: Generate Stats Images
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'scripts/generate-stats.js'
+      - 'scripts/templates/**'
+      - '.github/workflows/github-stats.yml'
+  schedule:
+    - cron: '5 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Generate images
+        run: node scripts/generate-stats.js
+        env:
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          EXCLUDE_REPOS: ${{ secrets.EXCLUDE_REPOS }}
+          EXCLUDE_LANGS: ${{ secrets.EXCLUDE_LANGS }}
+          EXCLUDE_PRIVATE: 'false'
+          MAX_RETRIES: 5
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add stats
+          git diff --quiet && git diff --staged --quiet \
+            || (git commit -m "chore: update GitHub stats images" && git push)
