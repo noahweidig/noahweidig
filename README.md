@@ -87,8 +87,8 @@ GIS analyst and data scientist at the intersection of **remote sensing**, **cons
 </p>
 
 <p>
-  <img src="https://github.com/noahweidig/github-stats/blob/generated/overview.svg#gh-dark-mode-only" width="360">
-  <img src="https://github.com/noahweidig/github-stats/blob/generated/languages.svg#gh-dark-mode-only" width="360">
+  <img src="https://github.com/noahweidig/github-stats/blob/generated/overview.svg" width="360">
+  <img src="https://github.com/noahweidig/github-stats/blob/generated/languages.svg" width="360">
 </p>
 
 ---
