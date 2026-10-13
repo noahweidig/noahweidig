@@ -18,6 +18,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+      - name: Make background transparent
+        run: sed -i -E 's#<rect x="0" y="0" width="[0-9]+" height="[0-9]+" class="fill-bg"[^>]*>(</rect>)?##' profile-3d-contrib/*.svg
       - name: Commit & Push
         run: |
           git config user.name github-actions
