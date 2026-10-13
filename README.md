@@ -1,9 +1,6 @@
-<!-- ⚡ Bolt Optimization: Converted PNG banner (498KB) to WebP (33KB) to reduce image payload by ~93% -->
 <a href="https://noahweidig.com" target="_blank" title="Visit noahweidig.com (Opens in a new tab)">
-  <img src="github-banner.webp" width="100%" alt="Noah Weidig - GIS & Data Scientist" />
+  <img src="icons/hero.svg" width="100%" alt="Spatial analysis. Real insights, answers, impact, clarity, action." />
 </a>
-
-<br>
 
 <div align="center">
 
@@ -22,9 +19,14 @@
 
 ### 👤 &nbsp;About
 
+| | |
+| :-- | :-- |
+| 🧭 **Role** | GIS analyst & data scientist |
+| 🔎 **Focus** | Remote sensing · Conservation science · Spatial storytelling |
+
 GIS analyst and data scientist at the intersection of **remote sensing**, **conservation science**, and **spatial storytelling**. I build tools, maps, and models that help people understand how landscapes change — and what those changes mean.
 
-> Understanding patterns through time gives people the power to see beyond the moment and shape a more intentional world.
+> 💡 &nbsp;**Understanding patterns through time gives people the power to see beyond the moment and shape a more intentional world.**
 
 ---
 
