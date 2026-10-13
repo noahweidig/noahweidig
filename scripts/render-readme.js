@@ -122,7 +122,6 @@ const html = `<!DOCTYPE html>
         /* Images */
         img {
             max-width: 100%;
-            height: auto;
             display: block;
             margin: 1.5rem 0;
         }
@@ -189,6 +188,21 @@ const html = `<!DOCTYPE html>
             margin: 0.5rem 0.25rem;
             vertical-align: middle;
             height: 40px;
+        }
+
+        img[width] {
+            height: auto;
+        }
+
+        /* Inline icons */
+        p img, h3 img, h4 img {
+            display: inline-block;
+            margin: 0.25rem 0.15rem;
+            vertical-align: middle;
+        }
+
+        p[align="center"] {
+            text-align: center;
         }
 
         /* Links as keyboard buttons */
