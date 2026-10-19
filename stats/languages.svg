@@ -135,13 +135,13 @@ div.ellipsis {
 <div>
 <span class="progress">
 <span style="background-color: #198CE7; width: 18.227%;" class="progress-item"></span>
-<span style="background-color: #3178c6; width: 17.869%;" class="progress-item"></span>
+<span style="background-color: #3178c6; width: 17.868%;" class="progress-item"></span>
 <span style="background-color: #f1e05a; width: 12.215%;" class="progress-item"></span>
-<span style="background-color: #e34c26; width: 10.898%;" class="progress-item"></span>
+<span style="background-color: #e34c26; width: 10.901%;" class="progress-item"></span>
 <span style="background-color: #000; width: 9.291%;" class="progress-item"></span>
 <span style="background-color: #dea584; width: 9.199%;" class="progress-item"></span>
-<span style="background-color: #663399; width: 6.511%;" class="progress-item"></span>
-<span style="background-color: #ff5a03; width: 6.027%;" class="progress-item"></span>
+<span style="background-color: #663399; width: 6.510%;" class="progress-item"></span>
+<span style="background-color: #ff5a03; width: 6.026%;" class="progress-item"></span>
 <span style="background-color: #3572A5; width: 4.604%;" class="progress-item"></span>
 <span style="background-color: #3D6117; width: 2.266%;" class="progress-item"></span>
 <span style="background-color: #000080; width: 1.010%;" class="progress-item"></span>
@@ -173,7 +173,7 @@ div.ellipsis {
 <li style="animation-delay: 450ms;">
   <svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill: #f1e05a;" viewBox="0 0 16 16" version="1.1" width="16" height="16"><path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
   <span class="lang">JavaScript</span>
-  <span class="percent">12.22%</span>
+  <span class="percent">12.21%</span>
 </li>
 <li style="animation-delay: 600ms;">
   <svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill: #e34c26;" viewBox="0 0 16 16" version="1.1" width="16" height="16"><path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
