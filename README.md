@@ -108,7 +108,7 @@ GIS analyst and data scientist at the intersection of **remote sensing**, **cons
 I collaborate on projects that build **resilient landscapes and communities** through tools, research partnerships, and data pipelines.
 
 <p>
-<a href="https://cal.com/noah-weidig/meet" title="Book a meeting with me"><img src="icons/btn-meet.svg" height="40" alt="Meet with me" /></a>&nbsp;
+<a href="https://cal.com/noahweidig/meet" title="Book a meeting with me"><img src="icons/btn-meet.svg" height="40" alt="Meet with me" /></a>&nbsp;
 <a href="https://buymeacoffee.com/noahweidig" title="Support my work"><img src="icons/btn-coffee.svg" height="40" alt="Buy me a coffee" /></a>&nbsp;
 <a href="https://noahweidig.com" title="View my full portfolio at noahweidig.com"><img src="icons/btn-site.svg" height="40" alt="Case studies, maps, publications" /></a>
 </p>
