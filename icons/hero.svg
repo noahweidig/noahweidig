@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="330" viewBox="0 0 900 330" role="img" aria-label="Spatial analysis. Real insights, answers, impact, clarity, action.">
 <title>Spatial analysis. Real insights, answers, impact, clarity, action.</title>
 <style>
-:root{--ink:#14161a;--dim:#565d6b;--line:#e2e2e2;--accent:#0a54ba;--moss:#0f6220;--violet:#7237ae;--yellow:#8c5d00;--red:#b8142d;--mix:18%;--base:#fafafa}
-@media(prefers-color-scheme:dark){:root{--ink:#e9ecf2;--dim:#99a1b1;--line:#23272f;--accent:#6ba4ff;--moss:#68ce7e;--violet:#ad6ded;--yellow:#ffc95e;--red:#ff6b78;--base:#101216}}
+:root{--ink:#37352f;--dim:#5f5e5a;--line:#e9e9e7;--accent:#0a54ba;--moss:#0f6220;--violet:#7237ae;--yellow:#7a5000;--red:#b8142d;--mix:18%;--base:#f7f7f7}
+@media(prefers-color-scheme:dark){:root{--ink:#ececec;--dim:#a3a3a3;--line:#2a2a2a;--accent:#6ba4ff;--moss:#68ce7e;--violet:#c28df6;--yellow:#ffc95e;--red:#ff6b78;--base:#131313}}
 text{font-family:Inter,ui-sans-serif,system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif}
 .t{font-weight:700;font-size:76px;fill:var(--ink)}
 .l{font-weight:400;font-size:17px;fill:var(--dim)}
