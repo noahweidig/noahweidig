@@ -93,7 +93,7 @@ GIS analyst and data scientist at the intersection of **remote sensing**, **cons
 <h3><img src="icons/h-chart.svg" height="28" align="top" alt="" />&nbsp;&nbsp;Contributions</h3>
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="640" alt="3D GitHub contribution graph">
+  <img src="./profile-3d-contrib/profile-site.svg" width="640" alt="3D GitHub contribution graph">
 </p>
 
 <p>

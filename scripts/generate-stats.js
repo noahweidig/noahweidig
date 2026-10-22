@@ -287,20 +287,21 @@ function escapeHtml(s) {
     .replace(/"/g, '&quot;');
 }
 
+const MAX_CHIPS = 9;
+
 function renderLanguages(template, languages, total) {
   const progress = [];
   const list = [];
   languages.forEach(([name, { size, color }], i) => {
     const percent = total === 0 ? 0 : (100 * size) / total;
-    const fill = color || '#000';
+    const fill = color || 'var(--dim)';
     progress.push(
       `<span style="background-color: ${escapeHtml(fill)}; width: ${percent.toFixed(3)}%;" class="progress-item"></span>`,
     );
-    list.push(
-      `<li style="animation-delay: ${(i + 1) * 150}ms;">
-  <svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill: ${escapeHtml(fill)};" viewBox="0 0 16 16" version="1.1" width="16" height="16"><path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+    if (i < MAX_CHIPS) list.push(
+      `<li style="background: color-mix(in srgb, ${escapeHtml(fill)} 16%, var(--surface));">
   <span class="lang">${escapeHtml(name)}</span>
-  <span class="percent">${percent.toFixed(2)}%</span>
+  <span class="percent">${percent.toFixed(1)}%</span>
 </li>`,
     );
   });

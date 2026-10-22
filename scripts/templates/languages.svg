@@ -1,152 +1,33 @@
 <svg width="360" height="210" xmlns="http://www.w3.org/2000/svg">
 <style>
-svg {
-  font-family: Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif;
-  font-size: 14px;
-  line-height: 21px;
-}
-
-#background {
-  width: calc(100% - 10px);
-  height: calc(100% - 10px);
-  fill: #ffffff;
-  stroke: #e9e9e7;
-  stroke-width: 1px;
-  rx: 12px;
-  ry: 12px;
-}
-
-
-foreignObject {
-  width: calc(100% - 10px - 32px);
-  height: calc(100% - 10px - 24px);
-}
-
-h2 {
-  margin-top: 0;
-  margin-bottom: 0.75em;
-  line-height: 24px;
-  font-size: 16px;
-  font-weight: 600;
-  color: #37352f;
-  fill: #37352f;
-}
-
-
-ul {
-  list-style: none;
-  padding-left: 0;
-  margin-top: 0;
-  margin-bottom: 0;
-}
-
-li {
-  display: inline-flex;
-  font-size: 12px;
-  margin-right: 1ch;
-  align-items: center;
-  flex-wrap: nowrap;
-  transform: translateX(-500%);
-  animation: slideIn 2s ease-in-out forwards;
-}
-
-@keyframes slideIn {
-  to {
-    transform: translateX(0);
-  }
-}
-
-div.ellipsis {
-  height: 176px;
-  overflow: hidden;
-  text-overflow: ellipsis;
-}
-
-.octicon {
-  fill: #5f5e5a;
-  margin-right: 0.5ch;
-  vertical-align: top;
-}
-
-
-.progress {
-  display: flex;
-  height: 8px;
-  overflow: hidden;
-  background-color: #e9e9e7;
-  border-radius: 4px;
-  outline: 1px solid transparent;
-  margin-bottom: 1em;
-}
-
-
-.progress-item {
-  outline: 2px solid #ffffff;
-  border-collapse: collapse;
-}
-
-
-.lang {
-  font-weight: 600;
-  margin-right: 4px;
-  color: #37352f;
-}
-
-
-.percent {
-  color: #5f5e5a
-}
-
-@media (prefers-color-scheme: dark) {
-  #background {
-    fill: #181818;
-    stroke: #2a2a2a;
-    stroke-width: 1px;
-  }
-  h2 {
-    color: #ececec;
-    fill: #ececec;
-  }
-  .octicon {
-    color: #a3a3a3;
-    fill: #a3a3a3;
-  }
-  .progress {
-    background-color: #2a2a2a;
-  }
-  .progress-item {
-    outline: 2px solid #181818;
-  }
-  .lang {
-    color: #ececec;
-  }
-  .percent {
-    color: #a3a3a3;
-  }
-}
+svg{font-family:Inter,ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Arial,sans-serif;font-size:14px;line-height:21px;
+--ink:#37352f;--dim:#5f5e5a;--line:#e9e9e7;--card:#ffffff;--surface:#f7f7f7;--edge:#ffffff;--accent-ink:#0a54ba;--moss:#0f6220;--violet:#7237ae;--yellow:#7a5000;--red:#b8142d;--teal:#126764}
+@media(prefers-color-scheme:dark){svg{--ink:#ececec;--dim:#a3a3a3;--line:#2a2a2a;--card:#181818;--surface:#131313;--edge:rgb(255 255 255/.06);--accent-ink:#6ba4ff;--moss:#68ce7e;--violet:#c28df6;--yellow:#ffc95e;--red:#ff6b78;--teal:#5fc7c2}}
+#bg{fill:var(--card);stroke:var(--line);stroke-width:1px}
+#edge{fill:none;stroke:var(--edge);stroke-width:1px}
+foreignObject{width:318px;height:176px}
+.k{margin:0 0 12px;font-size:11px;font-weight:600;letter-spacing:.14em;text-transform:uppercase;color:var(--dim)}
+.k b{color:var(--accent-ink);font-weight:600}
+.progress{display:flex;height:8px;overflow:hidden;background:var(--line);border-radius:4px;margin-bottom:14px}
+.progress-item{border-right:2px solid var(--card);min-width:2px}
+.progress-item:last-child{border-right:0}
+ul{list-style:none;padding:0;margin:0;display:flex;flex-wrap:wrap;gap:6px}
+li{display:inline-flex;align-items:center;gap:5px;padding:2px 9px;border-radius:9999px;font-size:11px;line-height:18px}
+li .lang{font-weight:500;color:var(--ink)}
+li .percent{color:var(--dim)}
+div.ellipsis{height:176px;overflow:hidden}
 </style>
-<g>
-<rect x="5" y="5" id="background" />
-<g>
-<foreignObject x="21" y="17" width="318" height="176">
+<rect id="bg" x="5.5" y="5.5" width="349" height="199" rx="12"/>
+<rect id="edge" x="6.5" y="6.5" width="347" height="197" rx="11"/>
+<foreignObject x="23" y="21" width="318" height="176">
 <div xmlns="http://www.w3.org/1999/xhtml" class="ellipsis">
-
-<h2>Languages Used (By File Size)</h2>
-
-<div>
-<span class="progress">
+<p class="k"><b>Languages</b> &#183; by file size</p>
+<div class="progress">
 {{ progress }}
-</span>
 </div>
-
 <ul>
-
 {{ lang_list }}
-
 </ul>
-
 </div>
 </foreignObject>
-</g>
-</g>
 </svg>

@@ -23,6 +23,11 @@ jobs:
       - name: Match site font
         run: |
           sed -i -E 's#font-family: "Ubuntu", "Helvetica", "Arial", sans-serif;#font-family: Inter, ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;#; s#\.fill-fg \{ fill: \#eeeeff; \}#.fill-fg { fill: \#ececec; }#; s#\.fill-weak \{ fill: \#aaaaaa; \}#.fill-weak { fill: \#a3a3a3; }#' profile-3d-contrib/*.svg
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Apply site palette
+        run: node scripts/restyle-3d.js
       - name: Commit & Push
         run: |
           git config user.name github-actions
