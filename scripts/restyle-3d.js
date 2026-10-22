@@ -38,16 +38,16 @@ const style = `<style>:root{${vars(light)}}
 .radar{stroke-width:3px;stroke:var(--accent-ink);fill:var(--accent-ink);fill-opacity:.18}
 ${cells}</style>`;
 
-const slices = ['accent-ink', 'moss', 'violet', 'yellow', 'red', 'teal', 'dim'];
+const slices = [100, 80, 62, 46, 34, 24, 18].map((n) => `color-mix(in srgb,var(--accent-ink) ${n}%,var(--base))`);
 let i = 0;
 let j = 0;
 const svg = fs.readFileSync(SRC, 'utf-8')
   .replace(/<style>[\s\S]*?<\/style>/, style)
   .replace(/<rect[^>]*class="fill-bg"[^>]*>(<\/rect>)?/g, '')
   .replace(/style="fill: #[0-9a-fA-F]{3,8};" class="stroke-bg"/g,
-    () => `style="fill:var(--${slices[i++ % slices.length]})" class="stroke-bg"`)
+    () => `style="fill:${slices[i++ % slices.length]}" class="stroke-bg"`)
   .replace(/fill="#[0-9a-fA-F]{3,8}" class="stroke-bg"/g,
-    () => `rx="3" style="fill:var(--${slices[j++ % slices.length]})" class="stroke-bg"`);
+    () => `rx="3" style="fill:${slices[j++ % slices.length]}" class="stroke-bg"`);
 
 fs.writeFileSync(OUT, svg);
 console.log(`Wrote ${path.relative(process.cwd(), OUT)} (${i} slices recolored)`);

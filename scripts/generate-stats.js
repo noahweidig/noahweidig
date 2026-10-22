@@ -292,18 +292,17 @@ const MAX_CHIPS = 9;
 function renderLanguages(template, languages, total) {
   const progress = [];
   const list = [];
-  languages.forEach(([name, { size, color }], i) => {
+  languages.forEach(([name, { size }], i) => {
     const percent = total === 0 ? 0 : (100 * size) / total;
-    const fill = color || 'var(--dim)';
+    const shade = Math.max(22, 100 - i * 11);
     progress.push(
-      `<span style="background-color: ${escapeHtml(fill)}; width: ${percent.toFixed(3)}%;" class="progress-item"></span>`,
+      `<span style="background-color: color-mix(in srgb, var(--accent) ${shade}%, var(--card)); width: ${percent.toFixed(3)}%;" class="progress-item"></span>`,
     );
-    if (i < MAX_CHIPS) list.push(
-      `<li style="background: color-mix(in srgb, ${escapeHtml(fill)} 16%, var(--surface));">
-  <span class="lang">${escapeHtml(name)}</span>
-  <span class="percent">${percent.toFixed(1)}%</span>
-</li>`,
-    );
+    if (i < MAX_CHIPS) {
+      list.push(
+        `<li><span class="lang">${escapeHtml(name)}</span><span class="percent">${percent.toFixed(1)}%</span></li>`,
+      );
+    }
   });
   return fillTemplate(template, {
     progress: progress.join('\n'),
