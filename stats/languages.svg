@@ -32,7 +32,7 @@ div.ellipsis{height:176px;overflow:hidden}
 <span style="background-color: color-mix(in srgb, var(--accent) 34%, var(--card)); width: 5.595%;" class="progress-item"></span>
 <span style="background-color: color-mix(in srgb, var(--accent) 23%, var(--card)); width: 4.930%;" class="progress-item"></span>
 <span style="background-color: color-mix(in srgb, var(--accent) 22%, var(--card)); width: 2.965%;" class="progress-item"></span>
-<span style="background-color: color-mix(in srgb, var(--accent) 22%, var(--card)); width: 2.094%;" class="progress-item"></span>
+<span style="background-color: color-mix(in srgb, var(--accent) 22%, var(--card)); width: 2.093%;" class="progress-item"></span>
 <span style="background-color: color-mix(in srgb, var(--accent) 22%, var(--card)); width: 1.129%;" class="progress-item"></span>
 <span style="background-color: color-mix(in srgb, var(--accent) 22%, var(--card)); width: 1.097%;" class="progress-item"></span>
 <span style="background-color: color-mix(in srgb, var(--accent) 22%, var(--card)); width: 0.335%;" class="progress-item"></span>
