@@ -23,22 +23,22 @@ div.ellipsis{height:176px;overflow:hidden}
 <div xmlns="http://www.w3.org/1999/xhtml" class="ellipsis">
 <p class="k">Languages &#183; by file size</p>
 <div class="progress">
-<span style="background-color: color-mix(in srgb, var(--accent) 100%, var(--card)); width: 18.943%;" class="progress-item"></span>
-<span style="background-color: color-mix(in srgb, var(--accent) 89%, var(--card)); width: 15.917%;" class="progress-item"></span>
-<span style="background-color: color-mix(in srgb, var(--accent) 78%, var(--card)); width: 14.996%;" class="progress-item"></span>
+<span style="background-color: color-mix(in srgb, var(--accent) 100%, var(--card)); width: 18.920%;" class="progress-item"></span>
+<span style="background-color: color-mix(in srgb, var(--accent) 89%, var(--card)); width: 15.898%;" class="progress-item"></span>
+<span style="background-color: color-mix(in srgb, var(--accent) 78%, var(--card)); width: 14.979%;" class="progress-item"></span>
 <span style="background-color: color-mix(in srgb, var(--accent) 67%, var(--card)); width: 9.244%;" class="progress-item"></span>
-<span style="background-color: color-mix(in srgb, var(--accent) 56%, var(--card)); width: 8.820%;" class="progress-item"></span>
-<span style="background-color: color-mix(in srgb, var(--accent) 45%, var(--card)); width: 8.133%;" class="progress-item"></span>
-<span style="background-color: color-mix(in srgb, var(--accent) 34%, var(--card)); width: 7.229%;" class="progress-item"></span>
-<span style="background-color: color-mix(in srgb, var(--accent) 23%, var(--card)); width: 5.763%;" class="progress-item"></span>
-<span style="background-color: color-mix(in srgb, var(--accent) 22%, var(--card)); width: 4.406%;" class="progress-item"></span>
-<span style="background-color: color-mix(in srgb, var(--accent) 22%, var(--card)); width: 2.361%;" class="progress-item"></span>
-<span style="background-color: color-mix(in srgb, var(--accent) 22%, var(--card)); width: 1.650%;" class="progress-item"></span>
-<span style="background-color: color-mix(in srgb, var(--accent) 22%, var(--card)); width: 0.884%;" class="progress-item"></span>
-<span style="background-color: color-mix(in srgb, var(--accent) 22%, var(--card)); width: 0.859%;" class="progress-item"></span>
-<span style="background-color: color-mix(in srgb, var(--accent) 22%, var(--card)); width: 0.263%;" class="progress-item"></span>
+<span style="background-color: color-mix(in srgb, var(--accent) 56%, var(--card)); width: 8.810%;" class="progress-item"></span>
+<span style="background-color: color-mix(in srgb, var(--accent) 45%, var(--card)); width: 8.123%;" class="progress-item"></span>
+<span style="background-color: color-mix(in srgb, var(--accent) 34%, var(--card)); width: 7.233%;" class="progress-item"></span>
+<span style="background-color: color-mix(in srgb, var(--accent) 23%, var(--card)); width: 5.850%;" class="progress-item"></span>
+<span style="background-color: color-mix(in srgb, var(--accent) 22%, var(--card)); width: 4.400%;" class="progress-item"></span>
+<span style="background-color: color-mix(in srgb, var(--accent) 22%, var(--card)); width: 2.358%;" class="progress-item"></span>
+<span style="background-color: color-mix(in srgb, var(--accent) 22%, var(--card)); width: 1.648%;" class="progress-item"></span>
+<span style="background-color: color-mix(in srgb, var(--accent) 22%, var(--card)); width: 0.883%;" class="progress-item"></span>
+<span style="background-color: color-mix(in srgb, var(--accent) 22%, var(--card)); width: 0.858%;" class="progress-item"></span>
+<span style="background-color: color-mix(in srgb, var(--accent) 22%, var(--card)); width: 0.262%;" class="progress-item"></span>
 <span style="background-color: color-mix(in srgb, var(--accent) 22%, var(--card)); width: 0.181%;" class="progress-item"></span>
-<span style="background-color: color-mix(in srgb, var(--accent) 22%, var(--card)); width: 0.122%;" class="progress-item"></span>
+<span style="background-color: color-mix(in srgb, var(--accent) 22%, var(--card)); width: 0.125%;" class="progress-item"></span>
 <span style="background-color: color-mix(in srgb, var(--accent) 22%, var(--card)); width: 0.082%;" class="progress-item"></span>
 <span style="background-color: color-mix(in srgb, var(--accent) 22%, var(--card)); width: 0.043%;" class="progress-item"></span>
 <span style="background-color: color-mix(in srgb, var(--accent) 22%, var(--card)); width: 0.030%;" class="progress-item"></span>
@@ -56,7 +56,7 @@ div.ellipsis{height:176px;overflow:hidden}
 <li><span class="lang">JavaScript</span><span class="percent">8.8%</span></li>
 <li><span class="lang">Rich Text Format</span><span class="percent">8.1%</span></li>
 <li><span class="lang">HTML</span><span class="percent">7.2%</span></li>
-<li><span class="lang">Python</span><span class="percent">5.8%</span></li>
+<li><span class="lang">Python</span><span class="percent">5.9%</span></li>
 <li><span class="lang">CSS</span><span class="percent">4.4%</span></li>
 </ul>
 </div>
