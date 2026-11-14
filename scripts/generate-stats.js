@@ -73,17 +73,37 @@ async function request(url, options = {}) {
 }
 
 async function graphql(query, variables) {
-  const { status, body } = await request('https://api.github.com/graphql', {
-    method: 'POST',
-    headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify({ query, variables }),
-  });
-  if (status !== 200 || !body || body.errors) {
-    throw new Error(
-      `GraphQL request failed (${status}): ${JSON.stringify(body?.errors ?? body)}`,
-    );
+  const attempts = Math.max(MAX_RETRIES, 8);
+  let lastError;
+  for (let attempt = 1; attempt <= attempts; attempt++) {
+    let status = 0;
+    let body = null;
+    try {
+      ({ status, body } = await request('https://api.github.com/graphql', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ query, variables }),
+      }));
+    } catch (error) {
+      lastError = error;
+    }
+    if (status === 200 && body && !body.errors) return body.data;
+    if (status) {
+      lastError = new Error(
+        `GraphQL request failed (${status}): ${JSON.stringify(body?.errors ?? body)}`,
+      );
+    }
+    const transient =
+      !status || status >= 500 || status === 403 || status === 429 ||
+      (body?.errors ?? []).some((e) =>
+        /timeout|timed out|rate limit|something went wrong/i.test(e.message || e.type || ''),
+      );
+    if (!transient || attempt === attempts) break;
+    const delay = Math.min(60000, 2000 * 2 ** (attempt - 1));
+    console.warn(`${lastError.message}; retry ${attempt}/${attempts - 1} in ${delay}ms`);
+    await sleep(delay);
   }
-  return body.data;
+  throw lastError;
 }
 
 async function getBasicInfo() {

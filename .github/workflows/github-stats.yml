@@ -28,7 +28,13 @@ jobs:
           node-version: '20'
 
       - name: Generate images
-        run: node scripts/generate-stats.js
+        run: |
+          for i in 1 2 3; do
+            node scripts/generate-stats.js && exit 0
+            echo "Attempt $i failed; retrying in 120s"
+            sleep 120
+          done
+          echo "::warning::Stats generation failed after 3 attempts; keeping existing images"
         env:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
