@@ -23,42 +23,42 @@ div.ellipsis{height:176px;overflow:hidden}
 <div xmlns="http://www.w3.org/1999/xhtml" class="ellipsis">
 <p class="k">Languages &#183; by file size</p>
 <div class="progress">
-<span style="background-color: color-mix(in srgb, var(--accent) 100%, var(--card)); width: 26.062%;" class="progress-item"></span>
-<span style="background-color: color-mix(in srgb, var(--accent) 89%, var(--card)); width: 20.163%;" class="progress-item"></span>
-<span style="background-color: color-mix(in srgb, var(--accent) 78%, var(--card)); width: 12.278%;" class="progress-item"></span>
-<span style="background-color: color-mix(in srgb, var(--accent) 67%, var(--card)); width: 11.022%;" class="progress-item"></span>
-<span style="background-color: color-mix(in srgb, var(--accent) 56%, var(--card)); width: 7.010%;" class="progress-item"></span>
-<span style="background-color: color-mix(in srgb, var(--accent) 45%, var(--card)); width: 6.123%;" class="progress-item"></span>
-<span style="background-color: color-mix(in srgb, var(--accent) 34%, var(--card)); width: 5.585%;" class="progress-item"></span>
-<span style="background-color: color-mix(in srgb, var(--accent) 23%, var(--card)); width: 4.535%;" class="progress-item"></span>
-<span style="background-color: color-mix(in srgb, var(--accent) 22%, var(--card)); width: 3.203%;" class="progress-item"></span>
-<span style="background-color: color-mix(in srgb, var(--accent) 22%, var(--card)); width: 1.957%;" class="progress-item"></span>
-<span style="background-color: color-mix(in srgb, var(--accent) 22%, var(--card)); width: 1.224%;" class="progress-item"></span>
-<span style="background-color: color-mix(in srgb, var(--accent) 22%, var(--card)); width: 0.198%;" class="progress-item"></span>
-<span style="background-color: color-mix(in srgb, var(--accent) 22%, var(--card)); width: 0.136%;" class="progress-item"></span>
-<span style="background-color: color-mix(in srgb, var(--accent) 22%, var(--card)); width: 0.116%;" class="progress-item"></span>
-<span style="background-color: color-mix(in srgb, var(--accent) 22%, var(--card)); width: 0.090%;" class="progress-item"></span>
-<span style="background-color: color-mix(in srgb, var(--accent) 22%, var(--card)); width: 0.076%;" class="progress-item"></span>
-<span style="background-color: color-mix(in srgb, var(--accent) 22%, var(--card)); width: 0.062%;" class="progress-item"></span>
+<span style="background-color: color-mix(in srgb, var(--accent) 100%, var(--card)); width: 26.683%;" class="progress-item"></span>
+<span style="background-color: color-mix(in srgb, var(--accent) 89%, var(--card)); width: 20.153%;" class="progress-item"></span>
+<span style="background-color: color-mix(in srgb, var(--accent) 78%, var(--card)); width: 12.148%;" class="progress-item"></span>
+<span style="background-color: color-mix(in srgb, var(--accent) 67%, var(--card)); width: 10.676%;" class="progress-item"></span>
+<span style="background-color: color-mix(in srgb, var(--accent) 56%, var(--card)); width: 6.936%;" class="progress-item"></span>
+<span style="background-color: color-mix(in srgb, var(--accent) 45%, var(--card)); width: 6.059%;" class="progress-item"></span>
+<span style="background-color: color-mix(in srgb, var(--accent) 34%, var(--card)); width: 5.552%;" class="progress-item"></span>
+<span style="background-color: color-mix(in srgb, var(--accent) 23%, var(--card)); width: 4.502%;" class="progress-item"></span>
+<span style="background-color: color-mix(in srgb, var(--accent) 22%, var(--card)); width: 3.313%;" class="progress-item"></span>
+<span style="background-color: color-mix(in srgb, var(--accent) 22%, var(--card)); width: 1.937%;" class="progress-item"></span>
+<span style="background-color: color-mix(in srgb, var(--accent) 22%, var(--card)); width: 1.211%;" class="progress-item"></span>
+<span style="background-color: color-mix(in srgb, var(--accent) 22%, var(--card)); width: 0.196%;" class="progress-item"></span>
+<span style="background-color: color-mix(in srgb, var(--accent) 22%, var(--card)); width: 0.135%;" class="progress-item"></span>
+<span style="background-color: color-mix(in srgb, var(--accent) 22%, var(--card)); width: 0.115%;" class="progress-item"></span>
+<span style="background-color: color-mix(in srgb, var(--accent) 22%, var(--card)); width: 0.089%;" class="progress-item"></span>
+<span style="background-color: color-mix(in srgb, var(--accent) 22%, var(--card)); width: 0.075%;" class="progress-item"></span>
+<span style="background-color: color-mix(in srgb, var(--accent) 22%, var(--card)); width: 0.061%;" class="progress-item"></span>
 <span style="background-color: color-mix(in srgb, var(--accent) 22%, var(--card)); width: 0.055%;" class="progress-item"></span>
 <span style="background-color: color-mix(in srgb, var(--accent) 22%, var(--card)); width: 0.032%;" class="progress-item"></span>
 <span style="background-color: color-mix(in srgb, var(--accent) 22%, var(--card)); width: 0.022%;" class="progress-item"></span>
 <span style="background-color: color-mix(in srgb, var(--accent) 22%, var(--card)); width: 0.016%;" class="progress-item"></span>
 <span style="background-color: color-mix(in srgb, var(--accent) 22%, var(--card)); width: 0.015%;" class="progress-item"></span>
 <span style="background-color: color-mix(in srgb, var(--accent) 22%, var(--card)); width: 0.010%;" class="progress-item"></span>
-<span style="background-color: color-mix(in srgb, var(--accent) 22%, var(--card)); width: 0.010%;" class="progress-item"></span>
+<span style="background-color: color-mix(in srgb, var(--accent) 22%, var(--card)); width: 0.009%;" class="progress-item"></span>
 <span style="background-color: color-mix(in srgb, var(--accent) 22%, var(--card)); width: 0.000%;" class="progress-item"></span>
 </div>
 <ul>
-<li><span class="lang">TypeScript</span><span class="percent">26.1%</span></li>
+<li><span class="lang">TypeScript</span><span class="percent">26.7%</span></li>
 <li><span class="lang">Swift</span><span class="percent">20.2%</span></li>
-<li><span class="lang">JavaScript</span><span class="percent">12.3%</span></li>
-<li><span class="lang">R</span><span class="percent">11.0%</span></li>
-<li><span class="lang">Rust</span><span class="percent">7.0%</span></li>
+<li><span class="lang">JavaScript</span><span class="percent">12.1%</span></li>
+<li><span class="lang">R</span><span class="percent">10.7%</span></li>
+<li><span class="lang">Rust</span><span class="percent">6.9%</span></li>
 <li><span class="lang">Rich Text Format</span><span class="percent">6.1%</span></li>
 <li><span class="lang">HTML</span><span class="percent">5.6%</span></li>
 <li><span class="lang">Python</span><span class="percent">4.5%</span></li>
-<li><span class="lang">CSS</span><span class="percent">3.2%</span></li>
+<li><span class="lang">CSS</span><span class="percent">3.3%</span></li>
 </ul>
 </div>
 </foreignObject>
